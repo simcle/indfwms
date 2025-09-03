@@ -15,6 +15,9 @@ const privateKeyFile = process.env.OPC_KEY
 
 // Daftar tag yang ingin disubscribe
 const monitoredNodes = [
+    { name: "Minyak_Count_Box", nodeId: "ns=4;s=Minyak_Count_Box" },
+    { name: "Minyak_Count_Match", nodeId: "ns=4;s=Minyak_Count_Match" },
+    { name: "Minyak_Count_NotMatch", nodeId: "ns=4;s=Minyak_Count_NotMatch" },
     { name: "Bumbu_Count_Box", nodeId: "ns=4;s=Bumbu_Count_Box" },
     { name: "Bumbu_Count_Match", nodeId: "ns=4;s=Bumbu_Count_Match" },
     { name: "Bumbu_Count_NotMatch", nodeId: "ns=4;s=Bumbu_Count_NotMatch" },
