@@ -22,6 +22,7 @@ export const parseBarcode = (barcodeRaw) => {
     return {
         valid: true,
         origin: barcode,
+        kodeSAP: kodeMaterialRaw,
         kodeMaterial,
         kodeJenis: jenisMap[kodeJenisChar] || "Unknown"
     }
