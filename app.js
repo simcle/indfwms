@@ -10,6 +10,12 @@ import { fileURLToPath } from "url"
 import { connectMqtt } from "./src/mqttClient.js"
 import "./src/utils/opcClient.js"
 
+
+// Routes
+import barCodeSscanRoutes from './src/routes/barcodeScanRoutes.js'
+
+
+
 await connectDB()
 
 connectMqtt(process.env.MQTT_URL)
@@ -22,6 +28,7 @@ app.use(cors())
 
 app.use(express.static(path.join(__dirname, 'public')))
 
+app.use('/barcode', barCodeSscanRoutes);
 
 
 const PORT = 3001

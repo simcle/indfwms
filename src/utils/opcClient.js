@@ -47,9 +47,11 @@ const client = OPCUAClient.create({
   privateKeyFile
 });
 
+// skip first initial
+const initialTriggers = new Set();
+
 // Menyimpan nilai terakhir tag non-barcode
 const latestValues = {};
-
 async function main() {
   try {
     await client.connect(endpointUrl);
@@ -85,6 +87,12 @@ async function main() {
       item.on("changed", async (dataValue) => {
         let raw = dataValue.value.value;
 
+        // Cek dan skip trigger pertama
+        if (!initialTriggers.has(tag.name)) {
+          initialTriggers.add(tag.name);
+          return; // abaikan perubahan pertama
+        }
+
         // Jika nilai array, ubah ke bentuk object
         if (Array.isArray(raw)) {
           raw = {
@@ -92,7 +100,7 @@ async function main() {
             count: raw[1]
           };
         }
-
+        
         const now = new Date().toISOString();
 
         if (barcodeTags.has(tag.name)) {
@@ -119,7 +127,7 @@ async function main() {
               processOrder: parsed.processOrder,
               scanDate: parsed.scanDate
             });
-            publish("opc/barcode")
+            publish("opc/barcode", saved.toObject())
 
           }
         } else {
