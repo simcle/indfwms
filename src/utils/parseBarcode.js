@@ -20,7 +20,7 @@ export const parseBarcode = (barcodeRaw) => {
         S: "VEGETABLE"
     };
     // BATCH NUMBER
-    const batchNumber = barcode.slice(19, 26)
+    const batchNumber = barcode.slice(19, 27)
     return {
         valid: true,
         origin: barcode,
