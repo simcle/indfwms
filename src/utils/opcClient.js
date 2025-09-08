@@ -87,12 +87,7 @@ async function main() {
       item.on("changed", async (dataValue) => {
         let raw = dataValue.value.value;
 
-        // Cek dan skip trigger pertama
-        if (!initialTriggers.has(tag.name)) {
-          initialTriggers.add(tag.name);
-          return; // abaikan perubahan pertama
-        }
-
+        
         // Jika nilai array, ubah ke bentuk object
         if (Array.isArray(raw)) {
           raw = {
@@ -104,6 +99,12 @@ async function main() {
         const now = new Date().toISOString();
 
         if (barcodeTags.has(tag.name)) {
+          // Cek dan skip trigger pertama
+          if (!initialTriggers.has(tag.name)) {
+            initialTriggers.add(tag.name);
+            return; // abaikan perubahan pertama
+          }
+
           const parsed = parseBarcode(raw)
           console.log(parsed)
           if(parsed.valid && parsed.sapInfo) {
