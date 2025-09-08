@@ -21,6 +21,11 @@ const monitoredNodes = [
     { name: "Bumbu_Count_Box", nodeId: "ns=4;s=Bumbu_Count_Box" },
     { name: "Bumbu_Count_Match", nodeId: "ns=4;s=Bumbu_Count_Match" },
     { name: "Bumbu_Count_NotMatch", nodeId: "ns=4;s=Bumbu_Count_NotMatch" },
+    { name: "Monitor_Barcode_1", nodeId: "ns=4;s=OPC_Monitor_Barcode_1" },
+    { name: "Monitor_Barcode_2", nodeId: "ns=4;s=OPC_Monitor_Barcode_2" },
+    { name: "Monitor_Barcode_3", nodeId: "ns=4;s=OPC_Monitor_Barcode_3" },
+    { name: "Monitor_Barcode_4", nodeId: "ns=4;s=OPC_Monitor_Barcode_4" },
+    { name: "Monitor_Barcode_5", nodeId: "ns=4;s=OPC_Monitor_Barcode_5" },
 ];
 
 const client = OPCUAClient.create({
