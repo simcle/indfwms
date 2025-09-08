@@ -1,0 +1,7630 @@
+[{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d37"
+  },
+  "sapCode": "000000000000220178",
+  "description": "Bumbu GSS-Topack-TP-Indomie Gor Spe Plus",
+  "label": "GSS-TP - Topack",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d38"
+  },
+  "sapCode": "000000000000217429",
+  "description": "Bumbu SM-Topack-TP-Indomie Rasa Soto Mie",
+  "label": "SM-Topack",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d39"
+  },
+  "sapCode": "000000000000225339",
+  "description": "Bumbu Ind Gor Spe/NDL-GSS-MF/E-O-TPK",
+  "label": "GSS-MF/E-O-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d3a"
+  },
+  "sapCode": "000000000000225381",
+  "description": "Seasoning Powder Chk Curry Flv-TK-TPK",
+  "label": "TK-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d3b"
+  },
+  "sapCode": "000000000000217428",
+  "description": "Bumbu AB-Topack-TP-Indomie Ayam Bawang",
+  "label": "AB-Topack",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d3c"
+  },
+  "sapCode": "000000000000225383",
+  "description": "Seasoning Powder Vegetable Flv-TSM-TPK",
+  "label": "TSM-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d3d"
+  },
+  "sapCode": "000000000000210408",
+  "description": "Bumbu AB-TP-Indomie Ayam Bawang",
+  "label": "AB-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d3e"
+  },
+  "sapCode": "000000000000225385",
+  "description": "Seasoning Powder Chicken Flv-TKA-TPK",
+  "label": "TKA-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d3f"
+  },
+  "sapCode": "000000000000220657",
+  "description": "Bumbu IHAG-TP-Indomie Goreng Ayam Geprek",
+  "label": "IHAG - Topack",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d40"
+  },
+  "sapCode": "000000000000210412",
+  "description": "Bumbu KBGN-TP-Indomie Kari Bawang Goreng",
+  "label": "KBGN - TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d41"
+  },
+  "sapCode": "000000000000225340",
+  "description": "Bumbu Ind Gor Pd/NDL-GPD07-MF-AR/E-O-TPK",
+  "label": "GPD07-MF-AR/E-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d42"
+  },
+  "sapCode": "000000000000220659",
+  "description": "SI IHAG-Indomie Goreng Ayam Geprek",
+  "label": "SI IHAG",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d43"
+  },
+  "sapCode": "000000000000216092",
+  "description": "Bumbu SKGI 60-TP-Sakura Mi Goreng",
+  "label": "SKGI 60 TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d44"
+  },
+  "sapCode": "000000000000222376",
+  "description": "Seasoning Powder Vegetable Flav-SMS-TPK",
+  "label": "SMS-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d45"
+  },
+  "sapCode": "000000000000220382",
+  "description": "Bumbu GSS-MF/E-Topack-TP-Ind Gor Spe/NDL",
+  "label": "GSS-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d46"
+  },
+  "sapCode": "000000000000214970",
+  "description": "Bumbu GRS-TP-Indomie Mi Goreng Rendang",
+  "label": "GRS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d47"
+  },
+  "sapCode": "000000000000220188",
+  "description": "Bumbu SKGI 60-Topack-TP-Sakura Mi Goreng",
+  "label": "SKGI 60 TP - Topack",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d48"
+  },
+  "sapCode": "000000000000220181",
+  "description": "Bumbu KBGN-Topack-TP-Indomie Kari Bw Gor",
+  "label": "KBGN-TP - Topack",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d49"
+  },
+  "sapCode": "000000000000225092",
+  "description": "Seasoning Powder MIBS-TPK-Beef Flavour",
+  "label": "MIBS-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d4a"
+  },
+  "sapCode": "000000000000224478",
+  "description": "SI PSPM-TP-Garnishing Indomie Cup-V3",
+  "label": "SI PSPM-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d4b"
+  },
+  "sapCode": "000000000000210681",
+  "description": "Bumbu GSS-TP-Indomie Goreng Spesial Plus",
+  "label": "GSS - TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d4c"
+  },
+  "sapCode": "000000000000223346",
+  "description": "Sea Powder KKA-TP-Ind Bumbu Sauce Ch Flv",
+  "label": "KKA-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d4d"
+  },
+  "sapCode": "000000000000210683",
+  "description": "Bumbu SM-TP-Indomie Rasa Soto Mie",
+  "label": "SM-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d4e"
+  },
+  "sapCode": "000000000000215235",
+  "description": "Bumbu KA-75-TP-Indomie Kaldu Ayam",
+  "label": "KA-75 - TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d4f"
+  },
+  "sapCode": "000000000000223347",
+  "description": "Sea Powder KKAJ-TP-Ind Bmb Sauc Ch Jm Fl",
+  "label": "KKAJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d50"
+  },
+  "sapCode": "000000000000217430",
+  "description": "Bumbu KA-75-Topack-TP-Indomie Kaldu Ayam",
+  "label": "KA-75-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d51"
+  },
+  "sapCode": "000000000000223353",
+  "description": "Seasoning Powder MKU-TP-Shrimp Flavour",
+  "label": "MKU-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d52"
+  },
+  "sapCode": "000000000000220180",
+  "description": "Bumbu GRS-Topack-TP-Indomie Mi Gor Rend",
+  "label": "GRS-TP - Topack",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d53"
+  },
+  "sapCode": "000000000000225230",
+  "description": "Seasoning Powder Veg Flv-BSM-O-TPK",
+  "label": "BSM-O-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d54"
+  },
+  "sapCode": "000000000000216199",
+  "description": "Bumbu KA-2M/E-TP-Ind KAKARUK (Chick Flv)",
+  "label": "KA-2M/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d55"
+  },
+  "sapCode": "000000000000222001",
+  "description": "Bumbu RGABR-TP-Sarimi Gel Ay Bwg-Syr Rel",
+  "label": "RGABR-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d56"
+  },
+  "sapCode": "000000000000223355",
+  "description": "Seasoning Powder MKA-TPK-Chicken Flavour",
+  "label": "MKA-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d57"
+  },
+  "sapCode": "000000000000214798",
+  "description": "Bumbu PMAJS-Pop Mi Ayam Jumbo Mix Sayur",
+  "label": "PMAJS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d58"
+  },
+  "sapCode": "000000000000201318",
+  "description": "SI S 1.5 - Sayur 1.5 (S 1.5)",
+  "label": "RAKD",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d59"
+  },
+  "sapCode": "000000000000222002",
+  "description": "Bumbu RGSTR-TP-Sarimi Gel St Aym-Syr Rel",
+  "label": "RGSTR-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d5a"
+  },
+  "sapCode": "000000000000225382",
+  "description": "Seasoning Powder Spe Chk Flv-TSA-TPK",
+  "label": "TSA-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d5b"
+  },
+  "sapCode": "000000000000210769",
+  "description": "Bumbu RAB-TP-Sarimi Ayam Bawang",
+  "label": "RAB-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d5c"
+  },
+  "sapCode": "000000000000225228",
+  "description": "Seasoning Powder Chicken Flv-BKA-O-TPK",
+  "label": "BKA-O-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d5d"
+  },
+  "sapCode": "000000000000225342",
+  "description": "Bumbu Ind Gor Spe/NDL GS/I-MF/E-O-TPK",
+  "label": "GS/I-MF/E-O-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d5e"
+  },
+  "sapCode": "000000000000221993",
+  "description": "Bumbu GSS-MA-TPK-TP-Ind Gor Per Spes/Exp",
+  "label": "GSS-MA-TPK-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d5f"
+  },
+  "sapCode": "000000000000212487",
+  "description": "Bumbu PMAAS-MF-Pop Mi Ayam Mx Syr mf/NDL",
+  "label": "PMASS-MF",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d60"
+  },
+  "sapCode": "000000000000219364",
+  "description": "Bumbu IMGA-TP-Indomie Mi Goreng Aceh",
+  "label": "IMGA - TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d61"
+  },
+  "sapCode": "000000000000222441",
+  "description": "Bumbu GPD07-MF-AR/E-TPK-Indomi Gr Pd/NDL",
+  "label": "GPD07-MF-AR/E-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d62"
+  },
+  "sapCode": "000000000000225344",
+  "description": "Bumbu Ind BBQ Ch Frd Ndl/NDL-GBC/E-O-TP",
+  "label": "GBC/E-O-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d63"
+  },
+  "sapCode": "000000000000225885",
+  "description": "Bumbu GSS-MF-O-TP Indomie Gor Spesl/NDL",
+  "label": "GSS-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d64"
+  },
+  "sapCode": "000000000000222035",
+  "description": "Bumbu RGSOR-TP-Sarimi Gelas Rasa Sosis",
+  "label": "RGSOR-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d65"
+  },
+  "sapCode": "000000000000210768",
+  "description": "Bumbu SA-TP-Indomie Ayam Spesial",
+  "label": "SA - TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d66"
+  },
+  "sapCode": "000000000000225231",
+  "description": "Seasoning Powder Fried Ndl Flv-BGS-O-TPK",
+  "label": "BGS-O-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d67"
+  },
+  "sapCode": "000000000000225378",
+  "description": "Seasoning Powder Medit Veg Flv-TMV-TPK",
+  "label": "TMV-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d68"
+  },
+  "sapCode": "000000000000212562",
+  "description": "SI Kremes RGSD",
+  "label": "RGSD",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d69"
+  },
+  "sapCode": "000000000000222003",
+  "description": "Bumbu RGBSR-TP-Sarimi Gel Bs Sap-Syr Rel",
+  "label": "RGBSR-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d6a"
+  },
+  "sapCode": "000000000000216358",
+  "description": "Bumbu PSTMBS-Pop Mi Mini Rs Sot Mi Mx Sy",
+  "label": "PSTMBS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d6b"
+  },
+  "sapCode": "000000000000225232",
+  "description": "Seasoning Powder Spec Chk Flv-BSA-O-TPK",
+  "label": "BSA-O-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d6c"
+  },
+  "sapCode": "000000000000218256",
+  "description": "Bumbu SPKA-2M/E-TP-Sup Kakaruk (Chk Flv)",
+  "label": "SPKA-2M/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d6d"
+  },
+  "sapCode": "000000000000223352",
+  "description": "Seasoning Powder MMV-TPK-Mediter Veg Flv",
+  "label": "MMV-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d6e"
+  },
+  "sapCode": "000000000000222684",
+  "description": "Seasoning Powder Chicken Baladi-MKAB-TP",
+  "label": "MKAB-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d6f"
+  },
+  "sapCode": "000000000000222004",
+  "description": "Bumbu RGKRR-TP-Sarimi Gel Rs Kar-Syr Rel",
+  "label": "RGKRR-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d70"
+  },
+  "sapCode": "000000000000225233",
+  "description": "Seasoning Powder Chicken Flv-BKA-UKO-TPK",
+  "label": "BKA-UKO-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d71"
+  },
+  "sapCode": "000000000000223000",
+  "description": "Seasoning Powder TK-TPK-Chk Curry Flv",
+  "label": "TK-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d72"
+  },
+  "sapCode": "000000000000214799",
+  "description": "Bumbu PMBJS-Pop Mi Baso Jumbo Mix Sayur",
+  "label": "PMBJS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d73"
+  },
+  "sapCode": "000000000000223358",
+  "description": "Seasoning Powder MGS-TPK-Fried Noodle Fl",
+  "label": "MGS-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d74"
+  },
+  "sapCode": "000000000000225723",
+  "description": "Bumbu RAKD2-TP-Sarimi Gor Ayam Kecap Dua",
+  "label": "RAKD2-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d75"
+  },
+  "sapCode": "000000000000225227",
+  "description": "Seasoning Powder Beef Flv-BIBS-O-TP",
+  "label": "BIBS-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d76"
+  },
+  "sapCode": "000000000000215445",
+  "description": "Bumbu SKKA 60-TP-Sakura Rasa Kaldu Ayam",
+  "label": "SKKA 60-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d77"
+  },
+  "sapCode": "000000000000214948",
+  "description": "Bumbu RAKD-TP-Sarimi Gor Ayam Kecap Dua",
+  "label": "RAKD-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d78"
+  },
+  "sapCode": "000000000000204179",
+  "description": "BG 15 -Bawang Goreng",
+  "label": "BG ( 5 )",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d79"
+  },
+  "sapCode": "000000000000208375",
+  "description": "Bumbu PGS-Pop Mie Goreng Spesial",
+  "label": "PGS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d7a"
+  },
+  "sapCode": "000000000000224807",
+  "description": "Bumbu IPOP-TP-Indomie Ayam Pop",
+  "label": "IPOP-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d7b"
+  },
+  "sapCode": "000000000000225242",
+  "description": "Garnishing Indomie Cup-SI TSPM-O",
+  "label": "SI TSPM-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d7c"
+  },
+  "sapCode": "000000000000225722",
+  "description": "Bumbu RGSD2-TP-Sarimi Mi Gr Ay Krems Dua",
+  "label": "RGSD2-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d7d"
+  },
+  "sapCode": "000000000000225234",
+  "description": "Seasoning Powder Chicken Flv-BKA-MFO-TPK",
+  "label": "BKA-MFO-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d7e"
+  },
+  "sapCode": "000000000000213011",
+  "description": "Bumbu PMKJ-Pop Mie Reg Rs Kari Ayam Jumb",
+  "label": "PMKJ",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d7f"
+  },
+  "sapCode": "000000000000213010",
+  "description": "Bumbu PMSJ-Pop Mie Reg Rs Soto Ayam Jumb",
+  "label": "PMSJ",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d80"
+  },
+  "sapCode": "000000000000223002",
+  "description": "Seasoning Powder TSM-TPK-Vegetable Flv",
+  "label": "TSM-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d81"
+  },
+  "sapCode": "000000000000220157",
+  "description": "Bumbu PMAJS/M-TP-Pop Mi Ayam Jmb Mix Syr",
+  "label": "PMAD",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d82"
+  },
+  "sapCode": "000000000000222379",
+  "description": "Seasoning Powder Supermi Veg Flv-SVS-TPK",
+  "label": "SVS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d83"
+  },
+  "sapCode": "000000000000222380",
+  "description": "Seasoning Powder Chicken Flavour-KAS-TPK",
+  "label": "KAS-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d84"
+  },
+  "sapCode": "000000000000221994",
+  "description": "Bumbu GSM-MA-TPK-TP-Ind Gor Per Asli/Exp",
+  "label": "GSM-MA-TPK-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d85"
+  },
+  "sapCode": "000000000000225379",
+  "description": "Seasoning Powder Ind Veg Jb Fl-TSMJ-TP",
+  "label": "TSMJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d86"
+  },
+  "sapCode": "000000000000222442",
+  "description": "Bumbu GS/I-MF/E-TPK-Indomi Gr Spe mf/NDL",
+  "label": "GS/I-MF/E-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d87"
+  },
+  "sapCode": "000000000000224474",
+  "description": "Sea Powder PGRC-TP-Ind Frd Nd Red Chl-V3",
+  "label": "PGRC-TP-V3",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d88"
+  },
+  "sapCode": "000000000000215726",
+  "description": "Bumbu SPAB/K-75-TP-Supermi Rs Aym Bawang",
+  "label": "SPAB/K-75 - TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d89"
+  },
+  "sapCode": "000000000000212888",
+  "description": "Bumbu SS-TP-Indomie Soto Spesial",
+  "label": "SS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d8a"
+  },
+  "sapCode": "000000000000219030",
+  "description": "Bumbu Pmad-popmie Kuah Dower Rsa Aym Ped",
+  "label": "PMAD",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d8b"
+  },
+  "sapCode": "000000000000214974",
+  "description": "Bumbu IIP-TP-Indomie Mi Gor Iga Penyet",
+  "label": "IIP-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d8c"
+  },
+  "sapCode": "000000000000214954",
+  "description": "Bumbu RGSD-TP-Sarimi Mi Gr Ay Kremes Duo",
+  "label": "RGSD-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d8d"
+  },
+  "sapCode": "000000000000225223",
+  "description": "Seasoning Powder Ind Cup Chk Flv-TICC-O",
+  "label": "TICC-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d8e"
+  },
+  "sapCode": "000000000000225384",
+  "description": "Seasoning Powder Frd Ndl Flv-TGS-TPK",
+  "label": "TGS-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d8f"
+  },
+  "sapCode": "000000000000225236",
+  "description": "Seasoning Powder Hot Spicy Fl-BGPD-O-TPK",
+  "label": "BGPD-O-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d90"
+  },
+  "sapCode": "000000000000205779",
+  "description": "BG 14-Bawang Goreng 2 Gr/Bw 2 Gr",
+  "label": "BG 2gr",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d91"
+  },
+  "sapCode": "000000000000216185",
+  "description": "Bumbu GSS-MF/E-TP-Indomi Gor Spesial/NDL",
+  "label": "GSS-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d92"
+  },
+  "sapCode": "000000000000223360",
+  "description": "Seasoning Powder MSM-TPK-Vegetable Flav",
+  "label": "MSM-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d93"
+  },
+  "sapCode": "000000000000220158",
+  "description": "Bumbu PMBJS/M-TP-Pop Mi Baso Jmb Mix Syr",
+  "label": "PMABR",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d94"
+  },
+  "sapCode": "000000000000225184",
+  "description": "Bumbu SA-MF-O-TP-Indomie Aym Sps mf/NDL",
+  "label": "SA-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d95"
+  },
+  "sapCode": "000000000000215934",
+  "description": "Bumbu SPSAC-TP-Supermi Ayam Pedas Medan",
+  "label": "SPSAC-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d96"
+  },
+  "sapCode": "000000000000220368",
+  "description": "Bumbu PGAG-Pop Mie Gor Gledek Rs Ay Ped",
+  "label": "PGAG",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d97"
+  },
+  "sapCode": "000000000000225349",
+  "description": "Bumbu Sup Mi Gor Ay/NDL SPGAB-MF/E-O-TP",
+  "label": "SPGAB-MF/E-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d98"
+  },
+  "sapCode": "000000000000212998",
+  "description": "Bumbu SPSTS-TP-Supermi Sedaap Rs Soto Ay",
+  "label": "SPSTS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d99"
+  },
+  "sapCode": "000000000000223004",
+  "description": "Seasoning Powder TKA-TPK-Chickn Flavour",
+  "label": "TKA-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d9a"
+  },
+  "sapCode": "000000000000225186",
+  "description": "Bumbu SM-MF-O-TP-Indomie Soto Mi mf/NDL",
+  "label": "SM-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d9b"
+  },
+  "sapCode": "000000000000225568",
+  "description": "Bumbu IHKR-TP-Indomie Hyp Kebab Rendang",
+  "label": "IHKR-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d9c"
+  },
+  "sapCode": "000000000000225541",
+  "description": "Bumbu SNGO-TP-Supermi Nutrimi Mie Goreng",
+  "label": "SNGO-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d9d"
+  },
+  "sapCode": "000000000000217884",
+  "description": "Bumbu RGA-AR/E-TP-Sarimi Goreng Ayam/NDL",
+  "label": "RGA-AR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d9e"
+  },
+  "sapCode": "000000000000225193",
+  "description": "Bumbu GSS-MFO-Indomie Gor Spsl/NDL",
+  "label": "GSS-MFO",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580d9f"
+  },
+  "sapCode": "000000000000225773",
+  "description": "SI IHKR-Indomie Hyp Kebab Rendang",
+  "label": "SI IHKR",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da0"
+  },
+  "sapCode": "000000000000225351",
+  "description": "Bumbu Ind Gor Perisa Asli-GSM-MA/E-O-TPK",
+  "label": "GSM-MA/E-O-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da1"
+  },
+  "sapCode": "000000000000217564",
+  "description": "Bumbu GCI-AR/E-TP-Indomie Gor Cb Ijo/NDL",
+  "label": "GCI-AR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da2"
+  },
+  "sapCode": "000000000000225181",
+  "description": "Bumbu KA-MF-O-TP-Indomie Kaldu Ay /NDL",
+  "label": "KA-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da3"
+  },
+  "sapCode": "000000000000223262",
+  "description": "SI IHMB-Indomie Hype Mieghetti Bolognese",
+  "label": "SI IHMB",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da4"
+  },
+  "sapCode": "000000000000223260",
+  "description": "Bumbu IHMB-TP-Ind Hype Miegheti Bolognes",
+  "label": "IHMB-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da5"
+  },
+  "sapCode": "000000000000212753",
+  "description": "Bumbu ITKA-TP-Intermi Kaldu Ayam",
+  "label": "ITKA-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da6"
+  },
+  "sapCode": "000000000000222273",
+  "description": "Bumbu IMGA-TPK-TP-Indomie Mi Goreng Aceh",
+  "label": "IMGA-TPK-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da7"
+  },
+  "sapCode": "000000000000225187",
+  "description": "Bumbu K-MF-O-TP-Indomie Kari mf/NDL",
+  "label": "K-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da8"
+  },
+  "sapCode": "000000000000223348",
+  "description": "Sea Powder KIBE-TP-Ind Bb Sauc Rg Bef Fl",
+  "label": "KIBE-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580da9"
+  },
+  "sapCode": "000000000000217882",
+  "description": "Bumbu SM-MA/E-TP-Indomie Soto Malay/NDL",
+  "label": "SM-MA/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580daa"
+  },
+  "sapCode": "000000000000225224",
+  "description": "Seasoning Powder Ind Cup CuryFlv-TICK-O",
+  "label": "TICK-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dab"
+  },
+  "sapCode": "000000000000216037",
+  "description": "Serbuk Gurih SM-MA-Ind Soto Malaysia/NDL",
+  "label": "SM-MA-IND",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dac"
+  },
+  "sapCode": "000000000000225380",
+  "description": "Seasoning Powder Ind Hot Spicy-TGPD-TP",
+  "label": "TGPD-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dad"
+  },
+  "sapCode": "000000000000217989",
+  "description": "Bumbu ISR-TP-Indomie Mi Gor Sambal Rica",
+  "label": "ISR-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dae"
+  },
+  "sapCode": "000000000000215548",
+  "description": "Bumbu RGA-TP-Sarimi Goreng Ayam",
+  "label": "RGA-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580daf"
+  },
+  "sapCode": "000000000000220251",
+  "description": "Bumbu PMKJ/M-TP-Pop Mie Reg Rs Kar Ay Jm",
+  "label": "PMKJ/M-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db0"
+  },
+  "sapCode": "000000000000225725",
+  "description": "Bumbu RSTD2-TP-Sarimi Rasa Soto Ayam Dua",
+  "label": "RSTD2-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db1"
+  },
+  "sapCode": "000000000000225190",
+  "description": "Bumbu PMAASMFO-Pop Mie Ay Mx Syr mf/NDL",
+  "label": "PMAASMFO",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db2"
+  },
+  "sapCode": "000000000000220250",
+  "description": "Bumbu PMSJ/M-TP-Pop Mie Reg Rs Sot Ay Jm",
+  "label": "PMSJ/M-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db3"
+  },
+  "sapCode": "000000000000222443",
+  "description": "Bumbu KA-UK-TPK-Indomie Kaldu Aym UK/NDL",
+  "label": "KA-UK-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db4"
+  },
+  "sapCode": "000000000000216357",
+  "description": "Bumbu PABMBS-Pop Mie Mini Rs Ay Bw Mx Sy",
+  "label": "PABMBS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db5"
+  },
+  "sapCode": "000000000000222272",
+  "description": "Bumbu SA-TPK-TP-Indomie Ayam Spesial",
+  "label": "SA-TPK-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db6"
+  },
+  "sapCode": "000000000000223356",
+  "description": "Seasoning Powder MK-TPK-Chicken Cury Flv",
+  "label": "MK-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db7"
+  },
+  "sapCode": "000000000000225377",
+  "description": "Seasoning Powder Ind Chk Jb Fl-TKAJ-TP",
+  "label": "TKAJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db8"
+  },
+  "sapCode": "000000000000216194",
+  "description": "Bumbu SA-MF/E-TP-Indomie Aym Spes mf/NDL",
+  "label": "SA-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580db9"
+  },
+  "sapCode": "000000000000214978",
+  "description": "Bumbu RSTD-TP-Sarimi Rasa Soto Ayam Dua",
+  "label": "RSTD-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dba"
+  },
+  "sapCode": "000000000000222570",
+  "description": "Bumbu IIP/E-TP-Ind Mi Gor Iga Penyet/NDL",
+  "label": "IIP/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dbb"
+  },
+  "sapCode": "000000000000216782",
+  "description": "Bumbu GSS-MF-AR/E-TP-Ind Goreng Spes/NDL",
+  "label": "GSS-MF-AR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dbc"
+  },
+  "sapCode": "000000000000205322",
+  "description": "SI RF-Sayur Regional/Favorite",
+  "label": "SIF",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dbd"
+  },
+  "sapCode": "000000000000221840",
+  "description": "Bumbu IHSJ-TP-Ind Hyp Abis Seblk Jeletot",
+  "label": "IHSJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dbe"
+  },
+  "sapCode": "000000000000217890",
+  "description": "Bumbu KA-UK-TP-Indomie Kaldu Ayam UK/NDL",
+  "label": "KA-UK-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dbf"
+  },
+  "sapCode": "000000000000216187",
+  "description": "Bumbu GBC/E-TP-Ind Bbq C Fried Nodle/NDL",
+  "label": "GBC/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc0"
+  },
+  "sapCode": "000000000000225226",
+  "description": "Seasoning Powder Ind Cup Beef Fl-TICB-O",
+  "label": "TICB-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc1"
+  },
+  "sapCode": "000000000000225241",
+  "description": "Bumbu AB-MF-O-TP-Indomie Ayam Bwg mf/NDL",
+  "label": "AB-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc2"
+  },
+  "sapCode": "000000000000216359",
+  "description": "Bumbu PBSMBS-Pop Mi Mini Rs Bs Sap Mx Sy",
+  "label": "PBSMBS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc3"
+  },
+  "sapCode": "000000000000215932",
+  "description": "Bumbu SPGA/K-TP-Supermi Goreng Ayam",
+  "label": "SPGA/K-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc4"
+  },
+  "sapCode": "000000000000219659",
+  "description": "Bumbu PMABR-Pop Mie Rsa Aym Bwg Relaunch",
+  "label": "PMABR",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc5"
+  },
+  "sapCode": "000000000000222271",
+  "description": "Bumbu RAB-TPK-TP-Sarimi Ayam Bawang",
+  "label": "RAB-TPK-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc6"
+  },
+  "sapCode": "000000000000225185",
+  "description": "Bumbu GRS-MF-O-TP-Ind Mi Gor Rnd/NDL",
+  "label": "GRS-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc7"
+  },
+  "sapCode": "000000000000223354",
+  "description": "Seasoning Powder MSA-TPK-Special Chk Flv",
+  "label": "MSA-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc8"
+  },
+  "sapCode": "000000000000213231",
+  "description": "Bumbu PABS/E-Pop Mie Ay Bawang Sayur/NDL",
+  "label": "PABS/E",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dc9"
+  },
+  "sapCode": "000000000000225347",
+  "description": "Bumbu Ind Gor Sate/NDL-GSE-MF-AR/E-O-TP",
+  "label": "GSE-MF-AR/E-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dca"
+  },
+  "sapCode": "000000000000225225",
+  "description": "Seasoning Powder Ind Cup Veg Flv-TICS-O",
+  "label": "TICS-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dcb"
+  },
+  "sapCode": "000000000000223349",
+  "description": "Sea Powder KIBEJ-TP-Ind Bb Sauc Jm Bf Fl",
+  "label": "KIBEJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dcc"
+  },
+  "sapCode": "000000000000225386",
+  "description": "Seasoning Powder Curry Jumbo-TKJ-O-TP",
+  "label": "TKJ-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dcd"
+  },
+  "sapCode": "000000000000222568",
+  "description": "Bumbu IHAG/E-TP-Ind Gor Ayam Geprek/NDL",
+  "label": "IHAG/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dce"
+  },
+  "sapCode": "000000000000214809",
+  "description": "Bumbu PCHSS-Pazto Rasa Cheese Mix Plkp",
+  "label": "PCHSS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dcf"
+  },
+  "sapCode": "000000000000225183",
+  "description": "Bumbu KU-MF-O-TP-Indomie Kal Udg mf/NDL",
+  "label": "KU-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd0"
+  },
+  "sapCode": "000000000000222378",
+  "description": "Seasoning Powder Frd Noodle Flv-GSSY-TPK",
+  "label": "GSSY-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd1"
+  },
+  "sapCode": "000000000000221148",
+  "description": "Bumbu IMGA-AR/E-TP-Ind Mi Gor Aceh/NDL",
+  "label": "IMGA-AR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd2"
+  },
+  "sapCode": "000000000000218697",
+  "description": "SI SPMP-MF-Indomie Cup/NDL",
+  "label": "SI SPMP-MF",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd3"
+  },
+  "sapCode": "000000000000220048",
+  "description": "Bumbu IBE/E-TP-Indomie Beef Export/NDL",
+  "label": "IBE/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd4"
+  },
+  "sapCode": "000000000000222999",
+  "description": "SI TSPM-Garnishing Indomie Cup",
+  "label": "SI TSPM",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd5"
+  },
+  "sapCode": "000000000000222375",
+  "description": "Seasoning Powder Chickn Curry Flv-KS-TPK",
+  "label": "KS-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd6"
+  },
+  "sapCode": "000000000000218607",
+  "description": "Bumbu PGS-TP-Pop Mie Goreng Spesial",
+  "label": "PGS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd7"
+  },
+  "sapCode": "000000000000221668",
+  "description": "Bumbu RKA70-TP-Sarimi Kaldu Ayam",
+  "label": "RKA70-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd8"
+  },
+  "sapCode": "000000000000222377",
+  "description": "Seasoning Powder Special Chk Flv-SAS-TPK",
+  "label": "SAS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dd9"
+  },
+  "sapCode": "000000000000216191",
+  "description": "Bumbu SM-MF/E-TP-Indomie Soto Mie mf/NDL",
+  "label": "SM-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dda"
+  },
+  "sapCode": "000000000000216192",
+  "description": "Bumbu K-MF/E-TP-Indomie Kari mf/NDL",
+  "label": "K-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ddb"
+  },
+  "sapCode": "000000000000226076",
+  "description": "Bumbu PMPJ-Pop Mie DWR Rs Pangsit JTR",
+  "label": "PMPJ",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ddc"
+  },
+  "sapCode": "000000000000224283",
+  "description": "Bumbu DVG-TP-DAAI Vegetarian Mi Goreng",
+  "label": "DVG-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ddd"
+  },
+  "sapCode": "000000000000218693",
+  "description": "Bumbu PAP-MF-Indomie Cup Chick Flav/NDL",
+  "label": "PAP-MF",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dde"
+  },
+  "sapCode": "000000000000225189",
+  "description": "Bumbu GPD-MF-O-TP-Ind Goreng Pedas/NDL",
+  "label": "GPD-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ddf"
+  },
+  "sapCode": "000000000000223351",
+  "description": "Sea Powder KSV-TP-Ind Bmb Sauc Rg Veg Fl",
+  "label": "KSV-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de0"
+  },
+  "sapCode": "000000000000201156",
+  "description": "Bumbu GSS-MF/E-Ind. Gor Spesial./NDL",
+  "label": "GSS/E/NDL",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de1"
+  },
+  "sapCode": "000000000000213013",
+  "description": "Cabe CPMJ-Cabe Single Pop Mie Jumbo",
+  "label": "CPMJ",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de2"
+  },
+  "sapCode": "000000000000216800",
+  "description": "Bumbu PSTMS-TP-Pop Mi Mni Rs St Mi Mx Sy",
+  "label": "PSTMS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de3"
+  },
+  "sapCode": "000000000000216197",
+  "description": "Bumbu KA-MF/E-TP-Indomi Kaldu Aym mf/NDL",
+  "label": "KA-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de4"
+  },
+  "sapCode": "000000000000223760",
+  "description": "SI SNSA-Supermi Nutrimi Steak Ayam",
+  "label": "SI SNSA",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de5"
+  },
+  "sapCode": "000000000000223758",
+  "description": "Bumbu SNSA-TP-Supermi Nutrimi Steak Ayam",
+  "label": "SNSA-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de6"
+  },
+  "sapCode": "000000000000213683",
+  "description": "Bumbu PMAJ/E-Pop Mie Ayam Jumbo/NDL",
+  "label": "PMAJ/E",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de7"
+  },
+  "sapCode": "000000000000225237",
+  "description": "Seasoning Powder Chick Bbq Flv-BGBC-O-TP",
+  "label": "BGBC-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de8"
+  },
+  "sapCode": "000000000000222440",
+  "description": "Bumbu KA-MF/E-TPK-Indomie Kal Aym mf/NDL",
+  "label": "KA-MF/E-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580de9"
+  },
+  "sapCode": "000000000000225354",
+  "description": "Bumbu Ind Mi Gor Aceh/NDL- IMGA-AR/E-O-T",
+  "label": "IMGA-AR/E-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dea"
+  },
+  "sapCode": "000000000000225695",
+  "description": "Seasoning Pwd Ind Cup CuryFlv-TICK-O-TP",
+  "label": "TICK-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580deb"
+  },
+  "sapCode": "000000000000225182",
+  "description": "Bumbu GS-MF-O-TP-Indome Gr Spes mf/NDL",
+  "label": "GS-MF-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dec"
+  },
+  "sapCode": "000000000000225694",
+  "description": "Seasoning Pwd Ind Cup Chk Flv-TICC-O-TP",
+  "label": "TICC-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ded"
+  },
+  "sapCode": "000000000000222976",
+  "description": "Seasoning Powder TGPD-TP-Ind Hot Spc FrN",
+  "label": "TGPD-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dee"
+  },
+  "sapCode": "000000000000225235",
+  "description": "Seasoning Powder Shrimp Flv-BKU-MFO-TP",
+  "label": "BKU-MFO-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580def"
+  },
+  "sapCode": "000000000000213232",
+  "description": "Bumbu PBSS/E-Pop Mie Baso Sayur/NDL",
+  "label": "PBSS/E",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df0"
+  },
+  "sapCode": "000000000000224281",
+  "description": "Bumbu DVS-TP-DAAI Vegetarian Rasa Soto",
+  "label": "DVS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df1"
+  },
+  "sapCode": "000000000000225353",
+  "description": "Bumbu Ind Gor Taiwan/NDL-GST-AF/E-OTP",
+  "label": "GST-AF/E-OTP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df2"
+  },
+  "sapCode": "000000000000225345",
+  "description": "Bumbu Ind BBQ Chk Frd Ndl/NDL-GBC/E-O",
+  "label": "GBC/E-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df3"
+  },
+  "sapCode": "000000000000216195",
+  "description": "Bumbu AB-MF/E-TP-Indomie Ayam Bwg mf/NDL",
+  "label": "AB-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df4"
+  },
+  "sapCode": "000000000000226085",
+  "description": "Seasoning Pwd CCNJ-TP-Ind Chk Chatkr Jb",
+  "label": "CCNJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df5"
+  },
+  "sapCode": "000000000000220183",
+  "description": "Bumbu SPAB/K-75-Topack-TP-Sup Rs Aym Bwg",
+  "label": "SPABK/K-75-TP-Topack",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df6"
+  },
+  "sapCode": "000000000000220413",
+  "description": "Bumbu PMAD-TP-PopMie Kuah Dower Rs Ay Pd",
+  "label": "PMAD-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df7"
+  },
+  "sapCode": "000000000000226086",
+  "description": "Seasoning Pwd VTNJ-TP-Ind Lemon Tarka Jb",
+  "label": "VTNJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.298Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df8"
+  },
+  "sapCode": "000000000000201147",
+  "description": "Bumbu K-MF-Indomie Kari mf/NDL",
+  "label": "K/E/NDL",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580df9"
+  },
+  "sapCode": "000000000000222974",
+  "description": "Seasoning Powder TSMJ-TP-Ind Veg Jmb Flv",
+  "label": "TSMJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dfa"
+  },
+  "sapCode": "000000000000218695",
+  "description": "Bumbu PSP-Indomie Cup Vegetable Flav/NDL",
+  "label": "PSP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dfb"
+  },
+  "sapCode": "000000000000217095",
+  "description": "Bumbu GSE-MF-AR/E-TP-Indomi Gor Sate/NDL",
+  "label": "GSE-MF-AR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dfc"
+  },
+  "sapCode": "000000000000223001",
+  "description": "Seasoning Powder TSA-TPK-Special Ch Flv",
+  "label": "TSA-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dfd"
+  },
+  "sapCode": "000000000000225376",
+  "description": "Seasoning Powder Sup Chk Flv-TSPKA-TP",
+  "label": "TSPKA-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dfe"
+  },
+  "sapCode": "000000000000220370",
+  "description": "Bumbu PGAG-TP-Pop Mie Gr Gledek Rs Ay Pd",
+  "label": "PGAG-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580dff"
+  },
+  "sapCode": "000000000000219051",
+  "description": "Bumbu GSM-MA-TP-Indo Gor Perisa Asli/NDL",
+  "label": "GSM-MA-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e00"
+  },
+  "sapCode": "000000000000225188",
+  "description": "Bumbu GBC-CP-O-TP-Ind Bbq Fried Ndl/NDL",
+  "label": "GBC-CP-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e01"
+  },
+  "sapCode": "000000000000225698",
+  "description": "Garnishing Indomie Cup-SI TSPM-O-TP",
+  "label": "SI TSPM-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e02"
+  },
+  "sapCode": "000000000000218763",
+  "description": "Bumbu TSM-TP-Toya Vegetable/NDL",
+  "label": "TSM-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e03"
+  },
+  "sapCode": "000000000000225350",
+  "description": "Bumbu Ind Gr Spc Bef Rib/NDLGBR/E-O-TP",
+  "label": "GBR/E-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e04"
+  },
+  "sapCode": "000000000000222825",
+  "description": "Bumbu SS-TPK-TP-Indomie Soto Spesial",
+  "label": "SS-TPK-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e05"
+  },
+  "sapCode": "000000000000224476",
+  "description": "Seasoning Powder PBAF-TP-Beef Flavour-V3",
+  "label": "PBAF-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e06"
+  },
+  "sapCode": "000000000000222983",
+  "description": "Seasoning Powder TKAJ-TP-Ind Chk Jum Flv",
+  "label": "TKAJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e07"
+  },
+  "sapCode": "000000000000225696",
+  "description": "Seasoning Pwd Ind Cup Veg Flv-TICS-O-TP",
+  "label": "TICS-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e08"
+  },
+  "sapCode": "000000000000218767",
+  "description": "Bumbu TGS-TP-Toya Fried Noodle/NDL",
+  "label": "TGS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e09"
+  },
+  "sapCode": "000000000000220719",
+  "description": "Bumbu RSTD/E-TP-Sarimi Rs St Aym Dua/NDL",
+  "label": "RSTD/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e0a"
+  },
+  "sapCode": "000000000000225341",
+  "description": "Bumbu Ind Gor Pedas/NDL-GPD07-MF-AR-O",
+  "label": "GPD07-MF-AR-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e0b"
+  },
+  "sapCode": "000000000000216196",
+  "description": "Bumbu SPKA-MF/E-TP-Supermi Kaldu Aym/NDL",
+  "label": "SPKA-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e0c"
+  },
+  "sapCode": "000000000000218696",
+  "description": "Bumbu PKP-Indomie Cup Curry Flavor/NDL",
+  "label": "PKP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e0d"
+  },
+  "sapCode": "000000000000214206",
+  "description": "Bumbu MKGS-MF-AR-Pre Mi Ker Gor Spes/NDL",
+  "label": "MKGS-MF-AR",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e0e"
+  },
+  "sapCode": "000000000000223716",
+  "description": "Bumbu SKKA 60-TPK-Sakura Rasa Kaldu Ayam",
+  "label": "SKKA 60-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e0f"
+  },
+  "sapCode": "000000000000225191",
+  "description": "Bumbu CBE-O-Ind Cup Beef Mix Syr/NDL",
+  "label": "CBE-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e10"
+  },
+  "sapCode": "000000000000217093",
+  "description": "Bumbu GRS-MF-AR/E-TP-Ind Mi Gor Rend/NDL",
+  "label": "GRS-MF-AR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e11"
+  },
+  "sapCode": "000000000000222805",
+  "description": "Bumbu IRMAJS-TP-Ind Real Meat Ayam Jamur",
+  "label": "",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e12"
+  },
+  "sapCode": "000000000000222817",
+  "description": "Bumbu PMSN-Pop Mie Panas Rs Soto Ayam",
+  "label": "PMSN",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e13"
+  },
+  "sapCode": "000000000000225256",
+  "description": "Bumbu DVK-TP-DAAI Vegetarian Rasa Kari",
+  "label": "DVK-TP-DAAI",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e14"
+  },
+  "sapCode": "000000000000223362",
+  "description": "Seasoning Powder MIBS-TP-Beef Flavour",
+  "label": "MIBS-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e15"
+  },
+  "sapCode": "000000000000218694",
+  "description": "Bumbu PBP-MF-Indomie Cup Beef Flavor/NDL",
+  "label": "PBP-MF",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e16"
+  },
+  "sapCode": "000000000000220043",
+  "description": "Bumbu RAB-AR/E-TP-Sarimi Ayam Bawang/NDL",
+  "label": "RAB-AR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e17"
+  },
+  "sapCode": "000000000000217886",
+  "description": "Bumbu SPGAB-MF/E-TP-Sup Mi Gor Ay mf/NDL",
+  "label": "SPGAB-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e18"
+  },
+  "sapCode": "000000000000222804",
+  "description": "Bumbu IRMALS-TP-Ind Real Meat Ayam Lada",
+  "label": "",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e19"
+  },
+  "sapCode": "000000000000223003",
+  "description": "Seasoning Powder TGS-TPK-Frd Noodle Flv",
+  "label": "TGS-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e1a"
+  },
+  "sapCode": "000000000000216189",
+  "description": "Bumbu GS/I-MF/E-TP-Indomi Gr Spes mf/NDL",
+  "label": "GS/I-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e1b"
+  },
+  "sapCode": "000000000000223147",
+  "description": "Seasoning Powder Curry Jumbo-TKJ-TP",
+  "label": "TKJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e1c"
+  },
+  "sapCode": "000000000000225366",
+  "description": "Bumbu No Brnd Gor Kor/NDL-GSK/E-O-TP",
+  "label": "GSK/E-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e1d"
+  },
+  "sapCode": "000000000000220045",
+  "description": "Bumbu RSKN-AR/E-TP-Sar Rs Sot Ky Jnp/NDL",
+  "label": "RSKN-AR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e1e"
+  },
+  "sapCode": "000000000000214201",
+  "description": "Bumbu GPD07-MF-AR-Indomie Gor Pedas/NDL",
+  "label": "GPD07-MF-AR",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e1f"
+  },
+  "sapCode": "000000000000218762",
+  "description": "Bumbu TCK-TP-Toya Chicken Flavor/NDL",
+  "label": "TCK-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e20"
+  },
+  "sapCode": "000000000000217891",
+  "description": "Bumbu CR-MA/E-77-TP-Ind Curry Malay/NDL",
+  "label": "CR-MA/E-77",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e21"
+  },
+  "sapCode": "000000000000216198",
+  "description": "Bumbu KU-MF/E-TP-Indomi Kal Udang mf/NDL",
+  "label": "KU-MF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e22"
+  },
+  "sapCode": "000000000000222372",
+  "description": "Bumbu GSM-MA-TPK-TP-Indo Gr Per Asli/NDL",
+  "label": "GSM-MA-TPK-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e23"
+  },
+  "sapCode": "000000000000207010",
+  "description": "Serbuk Gurih RSKN",
+  "label": "RSKN",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e24"
+  },
+  "sapCode": "000000000000217786",
+  "description": "Bumbu GST-AF/E-TP-Indomie Gor Taiwan/NDL",
+  "label": "GST-AF/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e25"
+  },
+  "sapCode": "000000000000201356",
+  "description": "Sayur BSVS-LA  Fonte Sup  Sayuran",
+  "label": "BSVS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e26"
+  },
+  "sapCode": "000000000000223165",
+  "description": "Bumbu PMSJ/E-Pop Mie Rs Soto Aym Jmb/NDL",
+  "label": "PMSJ/E",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e27"
+  },
+  "sapCode": "000000000000225343",
+  "description": "Bumbu Ind Gor Spe MF/NDL-GS/I-MF/E-O",
+  "label": "GS/I-MF/E-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e28"
+  },
+  "sapCode": "000000000000201326",
+  "description": "Bumbu BSVS-La Fonte Sup Sayuran",
+  "label": "BSVS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e29"
+  },
+  "sapCode": "000000000000201325",
+  "description": "Bumbu BSCS-La Fonte Sup Ayam",
+  "label": "BSCS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e2a"
+  },
+  "sapCode": "000000000000206186",
+  "description": "Bumbu GBC/E-Ind. Bbq C Fried Noodle/NDL",
+  "label": "GBC/E/NDL",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e2b"
+  },
+  "sapCode": "000000000000226084",
+  "description": "Seasoning Pwd BCNJ-TP-Ind Meat Masala Jb",
+  "label": "BCNJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e2c"
+  },
+  "sapCode": "000000000000201355",
+  "description": "Sayur BSCS-LA  Fonte Sup  Ayam",
+  "label": "BSCS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e2d"
+  },
+  "sapCode": "000000000000225355",
+  "description": "Bumbu Non Brand Gor Pedas/NDL-GPD-K-O-TP",
+  "label": "GPD-K-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e2e"
+  },
+  "sapCode": "000000000000224402",
+  "description": "Serbuk Gurih 5 Gr",
+  "label": "Serbuk Gurih 5Gr",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e2f"
+  },
+  "sapCode": "000000000000225346",
+  "description": "Bumbu Ind BBQ Chk Frd/NDL-GBC-TWN-O-TP",
+  "label": "GBC-TWN-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e30"
+  },
+  "sapCode": "000000000000220772",
+  "description": "Bumbu GSK/E-TP-No Brnd Gor Kor/NDL",
+  "label": "GSK/E",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e31"
+  },
+  "sapCode": "000000000000221599",
+  "description": "Bumbu PMABR-TP-Pop Mie Rs Ay Bw Relaunch",
+  "label": "PMABR-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e32"
+  },
+  "sapCode": "000000000000217888",
+  "description": "Bumbu GBR/E-TP-Ind Mi Gr Spc Bef Rib/NDL",
+  "label": "GBR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e33"
+  },
+  "sapCode": "000000000000225192",
+  "description": "Bumbu PSP-O-Indomie Cup Veg. Flv/NDL",
+  "label": "PSP-O",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e34"
+  },
+  "sapCode": "000000000000221733",
+  "description": "Bumbu GBC-CP-MF-TP-Ind BBQ Chk Frd /NDL",
+  "label": "GBC-CP-MF-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e35"
+  },
+  "sapCode": "000000000000221613",
+  "description": "Bumbu RKGA-AR/E-TP-Sarimi Kh Aym Gul/NDL",
+  "label": "RKGA-AR/E-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e36"
+  },
+  "sapCode": "000000000000219324",
+  "description": "Bumbu ISLR-TP-Indomie Soto Lamongan -R",
+  "label": "ISLR-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e37"
+  },
+  "sapCode": "000000000000219889",
+  "description": "Bumbu GSSJ-TP-Indomie Gor Spe Plus Jumbo",
+  "label": "GSSJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e38"
+  },
+  "sapCode": "000000000000219891",
+  "description": "Bumbu GAPJ-TP-Ind Gr Ayam Panggang Jumbo",
+  "label": "GAPJ-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e39"
+  },
+  "sapCode": "000000000000223905",
+  "description": "Bumbu ISBL-TPK-Ind Rasa Soto Banjar Limo",
+  "label": "ISBL-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e3a"
+  },
+  "sapCode": "000000000000225697",
+  "description": "Seasoning Pwd Ind Cup Beef Fl-TICB-O-TP",
+  "label": "TICB-O-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e3b"
+  },
+  "sapCode": "000000000000225726",
+  "description": "Bumbu RBSDS2-TP-Sar Baso Sapi Dua Mx Syr",
+  "label": "RBSDS2-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e3c"
+  },
+  "sapCode": "000000000000225896",
+  "description": "Bumbu RAKD2-TPK-Sarimi Gr Ayam Kecap Dua",
+  "label": "RAKD2-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e3d"
+  },
+  "sapCode": "000000000000226046",
+  "description": "Bumbu RSTD2-TPK-Sarimi Rs Soto Ayam Dua",
+  "label": "RSTD2-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e3e"
+  },
+  "sapCode": "000000000000226087",
+  "description": "Seasoning Pwd BCN-TP-Ind Meat Masala",
+  "label": "BCN-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e3f"
+  },
+  "sapCode": "000000000000226088",
+  "description": "Seasoning Pwd CCN-TP-Ind Chick Chatkara",
+  "label": "CCN-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e40"
+  },
+  "sapCode": "000000000000226089",
+  "description": "Seasoning Pwd VTN-TP-Ind Lemon Tarka",
+  "label": "VTN-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e41"
+  },
+  "sapCode": "000000000000226154",
+  "description": "Bumbu GSS-Topack-TP/LE-Indo Gor Spe Plus",
+  "label": "GSS-Topack-TP/LE",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e42"
+  },
+  "sapCode": "000000000000226155",
+  "description": "Bumbu GPD/07-TPK-TP/LE-Indo GR Ped Medan",
+  "label": "GPD/07-TPK-TP/LE",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e43"
+  },
+  "sapCode": "000000000000226156",
+  "description": "Bumbu IIP-TP/LE-Indo Mi Gor Iga Penyet",
+  "label": "IIP-TP/LE",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e44"
+  },
+  "sapCode": "000000000000226157",
+  "description": "Bumbu GRS-Topack-TP/LE-Ind Mi Gor Rendan",
+  "label": "GRS-Topack-TP/LE",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e45"
+  },
+  "sapCode": "000000000000226205",
+  "description": "Bumbu IPMR-Indomie Premium Miso Ramen",
+  "label": "IPMR",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e46"
+  },
+  "sapCode": "000000000000226633",
+  "description": "Bumbu IHAG-TPK-Indomie Gr. Ayam Geprek",
+  "label": "IHAG-TPK",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e47"
+  },
+  "sapCode": "000000000000202219",
+  "description": "SI PCMS-Pazto Chicken Mushroom",
+  "label": "SI PCMS",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e48"
+  },
+  "sapCode": "000000000000226106",
+  "description": "SI PMPJ-POP MIE DWR RS PANGSIT JTR",
+  "label": "SI PMPJ",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e49"
+  },
+  "sapCode": "000000000000226416",
+  "description": "SI IPTR-Indomie Premium Takoyaki Ramen",
+  "label": "SI IPTR",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e4a"
+  },
+  "sapCode": "000000000000226417",
+  "description": "SI IPSR-Indomie Premium Shoyu Ramen",
+  "label": "SI IPSR",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e4b"
+  },
+  "sapCode": "000000000000226613",
+  "description": "SI PSPM-TP-Garnishing Indomie Cup",
+  "label": "SI PSPM-TP",
+  "typeCode": "B",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e4c"
+  },
+  "sapCode": "000000000000210684",
+  "description": "Minyak SM-TP-Indomie Rasa Soto Mie",
+  "label": "SM-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e4d"
+  },
+  "sapCode": "000000000000218221",
+  "description": "Minyak GSS-TP-EM-Indomie Gr Spesial Plus",
+  "label": "GSS-TP-EM",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e4e"
+  },
+  "sapCode": "000000000000210585",
+  "description": "Minyak Bawang-TP 3.0 Gram Jawa",
+  "label": "MBJ TP 3.0",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e4f"
+  },
+  "sapCode": "000000000000210682",
+  "description": "Minyak GSS-TP-Indomie Gor Spesial Plus",
+  "label": "GSS - TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e50"
+  },
+  "sapCode": "000000000000216186",
+  "description": "Minyak GSS-E-NPS-TP-Indomie Gor Spes/NDL",
+  "label": "GSS-E-NPS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e51"
+  },
+  "sapCode": "000000000000224477",
+  "description": "Seasoning Oil PGS-TP-Fried Noodle Flv-V3",
+  "label": "PGS-TP-V3",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e52"
+  },
+  "sapCode": "000000000000212755",
+  "description": "Minyak BK 33-TP-Bawang Kecap 33 Gram",
+  "label": "MY BWG 33 TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e53"
+  },
+  "sapCode": "000000000000222985",
+  "description": "Seasoning Oil TK-TP-Chicken Curry Flv",
+  "label": "TK-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e54"
+  },
+  "sapCode": "000000000000210586",
+  "description": "Minyak KBGN-TP-Indomi Kari Bawang Goreng",
+  "label": "KBGN - TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e55"
+  },
+  "sapCode": "000000000000221368",
+  "description": "Seasoning Onion Chick Liquid-ABD-TP2.7gr",
+  "label": "ABD 2.7-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e56"
+  },
+  "sapCode": "000000000000222987",
+  "description": "Seasoning Oil TSM-TP-Vegetable Flavour",
+  "label": "TSM-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e57"
+  },
+  "sapCode": "000000000000221369",
+  "description": "Seasoning Onion Chick Liquid-ABG-TP2.7gr",
+  "label": "ABG-TP2.7gr",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e58"
+  },
+  "sapCode": "000000000000223368",
+  "description": "Seasoning Oil BSM-TP-Vegetable Flavour",
+  "label": "BSM-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e59"
+  },
+  "sapCode": "000000000000214971",
+  "description": "Minyak GRS-TP-Indomie Mi Goreng Rendang",
+  "label": "GRS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e5a"
+  },
+  "sapCode": "000000000000217098",
+  "description": "Minyak GPD-BG-E-TP-Indomie Gor Pedas/NDL",
+  "label": "GPD-BG-E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e5b"
+  },
+  "sapCode": "000000000000223372",
+  "description": "Seasoning Oil BSA-TP-Special Chicken Flv",
+  "label": "BSA-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e5c"
+  },
+  "sapCode": "000000000000218072",
+  "description": "Minyak SMS-TP-Indomie Soto Mie Syria/Exp",
+  "label": "SMS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e5d"
+  },
+  "sapCode": "000000000000224853",
+  "description": "Minyak IPOP-TP-Indomie Ayam Pop",
+  "label": "IPOP-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e5e"
+  },
+  "sapCode": "000000000000220658",
+  "description": "Minyak IHAG-TP-Indomie Goreng Aym Geprek",
+  "label": "IHAG-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e5f"
+  },
+  "sapCode": "000000000000216200",
+  "description": "Minyak GSST-NPSS-TP-Ind Gor Spe Plus/NDL",
+  "label": "GSST-NPSS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e60"
+  },
+  "sapCode": "000000000000222986",
+  "description": "Seasoning Oil TSA-TP-Special Chk Flv",
+  "label": "TSA-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e61"
+  },
+  "sapCode": "000000000000220510",
+  "description": "Seasoning Onion Chk Liquid Jumbo-ABGJ-TP",
+  "label": "ABGJ-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e62"
+  },
+  "sapCode": "000000000000220832",
+  "description": "Minyak IMGA-TP-Indomie Mi Goreng Aceh",
+  "label": "IMGA-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e63"
+  },
+  "sapCode": "000000000000216190",
+  "description": "Minyak GS-NPSS-TP/TBHQ_ind Gor /NDL",
+  "label": "GS-NPSS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e64"
+  },
+  "sapCode": "000000000000214949",
+  "description": "Minyak RAKD-MK-TP-Sarimi Gr Ay Kecap Dua",
+  "label": "RAKD-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e65"
+  },
+  "sapCode": "000000000000221711",
+  "description": "Minyak GSS-MA-TP-Ind Gor Perisa Spes/Exp",
+  "label": "GSS-MA-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e66"
+  },
+  "sapCode": "000000000000216188",
+  "description": "Minyak GBC-E-NPSS-TP-Ind Bbq C Fr Nd/NDL",
+  "label": "GBC-E-NPSS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e67"
+  },
+  "sapCode": "000000000000212756",
+  "description": "Minyak GS/A-TP-Indomie Goreng Spesial",
+  "label": "GS/A - TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e68"
+  },
+  "sapCode": "000000000000213050",
+  "description": "Minyak PMBJ-Pop Mie Baso Jumbo",
+  "label": "PMBJ",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e69"
+  },
+  "sapCode": "000000000000223370",
+  "description": "Seasoning Oil BGS-TP-Fried Noodle Flv",
+  "label": "BGS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e6a"
+  },
+  "sapCode": "000000000000201097",
+  "description": "Minyak PSTM-Pop Mie Mini Rasa Soto Mie",
+  "label": "PSTM",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e6b"
+  },
+  "sapCode": "000000000000215514",
+  "description": "Minyak K-TP-Indomie Kari Ayam",
+  "label": "K - TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e6c"
+  },
+  "sapCode": "000000000000212889",
+  "description": "Minyak SS-TP-Indomie Soto Spesial",
+  "label": "SS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e6d"
+  },
+  "sapCode": "000000000000223359",
+  "description": "Seasoning Oil MGS-TP-Fried Noodle Flv",
+  "label": "MGS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e6e"
+  },
+  "sapCode": "000000000000213017",
+  "description": "Minyak PMSJ-Pop Mie Rasa Soto Ayam Jumbo",
+  "label": "PMSJ",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e6f"
+  },
+  "sapCode": "000000000000213051",
+  "description": "Minyak PMKJ-Pop Mie Reg Rs Kari Ayam Jmb",
+  "label": "PMKJ",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e70"
+  },
+  "sapCode": "000000000000220969",
+  "description": "Seasoning Onion Chk Liquid Jumbo-ABDJ-77",
+  "label": "ABDJ-77",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e71"
+  },
+  "sapCode": "000000000000220722",
+  "description": "Minyak MBJ/E-TP 3.0/Minyak Bawang Jw/NDL",
+  "label": "MBJ/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e72"
+  },
+  "sapCode": "000000000000224453",
+  "description": "Seasoning Oil MGS-TP-Fried Noodle Flv-V3",
+  "label": "MGS-TP-V3",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e73"
+  },
+  "sapCode": "000000000000225663",
+  "description": "Seasoning Onion Chicken Liquid-JOD-TP",
+  "label": "JOD-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e74"
+  },
+  "sapCode": "000000000000208377",
+  "description": "Minyak PGS-Pop Mie Goreng Spesial",
+  "label": "PGS",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e75"
+  },
+  "sapCode": "000000000000225730",
+  "description": "Minyak RGSD2-TP-Sarimi Mi Gr Ay Krems Dua",
+  "label": "RGSD2-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e76"
+  },
+  "sapCode": "000000000000221713",
+  "description": "Minyak GSM-MA-TP-Ind Gor Perisa Asli/Exp",
+  "label": "GSM-MA-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e77"
+  },
+  "sapCode": "000000000000224475",
+  "description": "Sea Oil PGRC-TP-Ind Frd Nd Red Chl Fl-V3",
+  "label": "PGRC-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e78"
+  },
+  "sapCode": "000000000000222975",
+  "description": "Seasoning Oil TSMJ-TP-Ind Veg Jumb Flv",
+  "label": "TSMJ-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e79"
+  },
+  "sapCode": "000000000000219514",
+  "description": "Minyak PMAD-Pop Mi Kuah Dower Rs Aym Ped",
+  "label": "PMAD",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e7a"
+  },
+  "sapCode": "000000000000214975",
+  "description": "Minyak IIP-TP-Indomie Mi Gor Iga Penyet",
+  "label": "IIP-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e7b"
+  },
+  "sapCode": "000000000000215549",
+  "description": "Minyak Bawang-Kecap 435-TP",
+  "label": "MY BWG Kecap 435-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e7c"
+  },
+  "sapCode": "000000000000214955",
+  "description": "Minyak RGSD-TP-Sarimi Mi Gr Ay Krems Duo",
+  "label": "RGSD-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e7d"
+  },
+  "sapCode": "000000000000220369",
+  "description": "Minyak PGAG-Pop Mie Gor Gledek Rs Ay Ped",
+  "label": "PGAG",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e7e"
+  },
+  "sapCode": "000000000000223361",
+  "description": "Seasoning Oil MSM-TP-Vegetable Flavour",
+  "label": "MSM-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e7f"
+  },
+  "sapCode": "000000000000222988",
+  "description": "Seasoning Oil TGS-TP-Fried Noodles Flv",
+  "label": "TGS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e80"
+  },
+  "sapCode": "000000000000224551",
+  "description": "Minyak BGPD-BG-E-TP-Ind Gr Hot&Spcy/Exp",
+  "label": "BGPD-BG-E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e81"
+  },
+  "sapCode": "000000000000219052",
+  "description": "Minyak GSM-MA-TP-Ind Gor Perisa Asli/NDL",
+  "label": "GSM-MA-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e82"
+  },
+  "sapCode": "000000000000215935",
+  "description": "Minyak SPSAC-TP-Supermi Ayam Pedas",
+  "label": "SPSAC-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e83"
+  },
+  "sapCode": "000000000000217887",
+  "description": "Minyak SPGA-BG-E-TP-Sup Mi Gor Ay Bg/NDL",
+  "label": "SPGA-BG-E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e84"
+  },
+  "sapCode": "000000000000222977",
+  "description": "Seasoning Oil TGPD-TP-Ind Hot Spc FrN Fl",
+  "label": "TGPD-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e85"
+  },
+  "sapCode": "000000000000201158",
+  "description": "Minyak GSS-E-NPS Indomi Gor Spesial /NDL",
+  "label": "GSS-NP/E/NDL",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e86"
+  },
+  "sapCode": "000000000000225569",
+  "description": "Minyak IHKR-TP-Indomie Hyp Kebab Rendang",
+  "label": "IHKR-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e87"
+  },
+  "sapCode": "000000000000217885",
+  "description": "Minyak RGA-MA-TP-Sarimi Goreng Ayam/NDL",
+  "label": "RGA-MA-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e88"
+  },
+  "sapCode": "000000000000225542",
+  "description": "Minyak SNGO-TP-Supermi Nutrimi Mie Goreng",
+  "label": "SNGO-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e89"
+  },
+  "sapCode": "000000000000220721",
+  "description": "Minyak SM/E-TP-Indomie Rasa Soto Mie/NDL",
+  "label": "SM/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e8a"
+  },
+  "sapCode": "000000000000222992",
+  "description": "Seasoning Oil TICK-Ind Cup Curry Flavour",
+  "label": "TICK",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e8b"
+  },
+  "sapCode": "000000000000223261",
+  "description": "Minyak IHMB-TP-Ind Hype Miegheti Bologne",
+  "label": "IHMB-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e8c"
+  },
+  "sapCode": "000000000000217883",
+  "description": "Minyak SM-MA-TP-Indomie Soto Malay/NDL",
+  "label": "SM-MA-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e8d"
+  },
+  "sapCode": "000000000000225733",
+  "description": "Minyak RSTD2-TP-Sarimi Rasa Soto Ayam Dua",
+  "label": "RSTD2-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e8e"
+  },
+  "sapCode": "000000000000221714",
+  "description": "Minyak K/E-TP-Indomie Kari Ayam/NDL",
+  "label": "K/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e8f"
+  },
+  "sapCode": "000000000000214979",
+  "description": "Minyak RSTD-TP-Sarimi Rasa Soto Ayam Dua",
+  "label": "RSTD-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e90"
+  },
+  "sapCode": "000000000000212898",
+  "description": "Minyak Bawang-TP 3.0 Gram",
+  "label": "MY BWG 3 GRAM - TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e91"
+  },
+  "sapCode": "000000000000217565",
+  "description": "Minyak GCI/E-TP-Indomi Gr Cb Ijo Sgl/NDL",
+  "label": "GCI/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e92"
+  },
+  "sapCode": "000000000000222105",
+  "description": "Minyak GS-NPSS-GE-TP/TBHQ_ind Goreng/NDL",
+  "label": "GS-NPSS-GE-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e93"
+  },
+  "sapCode": "000000000000222571",
+  "description": "Minyak IIP/E-TP-Ind Mi Gr Iga Penyet/NDL",
+  "label": "IIP/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e94"
+  },
+  "sapCode": "000000000000223357",
+  "description": "Seasoning Oil MK-TP-Chickn Curry Flavour",
+  "label": "MK-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e95"
+  },
+  "sapCode": "000000000000223148",
+  "description": "Seasoning Oil Curry Jumbo-TKJ-TP",
+  "label": "TKJ-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e96"
+  },
+  "sapCode": "000000000000222998",
+  "description": "Seasoning Oil EPK-Oil Curry Flavour",
+  "label": "EPK",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e97"
+  },
+  "sapCode": "000000000000214940",
+  "description": "Minyak ISBL-TP-Ind Rasa Soto Banjar Limo",
+  "label": "ISBL-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e98"
+  },
+  "sapCode": "000000000000222994",
+  "description": "Seasoning Oil TICS-Ind Cup Vegetable Flv",
+  "label": "TICS",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e99"
+  },
+  "sapCode": "000000000000201175",
+  "description": "Minyak Bawang 2.0 Gram Jawa",
+  "label": "SABK / MY BWG 2 gr JW",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e9a"
+  },
+  "sapCode": "000000000000221841",
+  "description": "Minyak IHSJ-TP-Ind Hyp Abis Sblk Jeletot",
+  "label": "IHSJ-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e9b"
+  },
+  "sapCode": "000000000000222108",
+  "description": "Minyak MBJ-GE/E-TP 3.0/Minyak Bwg Jw/NDL",
+  "label": "MBJ-GE-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e9c"
+  },
+  "sapCode": "000000000000217096",
+  "description": "Minyak GSE-BG-E-TP-Indomi Goreng Sat/NDL",
+  "label": "GSE-BG-E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e9d"
+  },
+  "sapCode": "000000000000218070",
+  "description": "Minyak KS-TP-Indomie Kari Syria/Exp",
+  "label": "KS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e9e"
+  },
+  "sapCode": "000000000000221149",
+  "description": "Minyak IMGA-AR/E-TP-Ind Mi Gor Aceh/NDL",
+  "label": "IMGA-AR/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580e9f"
+  },
+  "sapCode": "000000000000223363",
+  "description": "Seasoning Oil MIBS-TP-Beef Flavour",
+  "label": "MIBS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea0"
+  },
+  "sapCode": "000000000000218076",
+  "description": "Minyak GSSY-TP-Indomie Mi Gor Syria/Exp",
+  "label": "GSSY-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea1"
+  },
+  "sapCode": "000000000000222107",
+  "description": "Minyak GRS-GE/E-TP-Indomi Mi Gr Rend/NDL",
+  "label": "GRS-GE/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea2"
+  },
+  "sapCode": "000000000000218074",
+  "description": "Minyak SAS-TP-Indomie Aym Spes Syria/Exp",
+  "label": "SAS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea3"
+  },
+  "sapCode": "000000000000222997",
+  "description": "Seasoning Oil EPS-Vegetable Flavour",
+  "label": "EPS",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea4"
+  },
+  "sapCode": "000000000000222110",
+  "description": "Minyak SM-GE/E-TP-Indomie Rsa St Mie/NDL",
+  "label": "SM-GE/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea5"
+  },
+  "sapCode": "000000000000222569",
+  "description": "Minyak IHAG/E-TP-Ind Gor Ayam Geprek/NDL",
+  "label": "IHAG/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea6"
+  },
+  "sapCode": "000000000000222109",
+  "description": "Minyak K-GE/E-TP-Indomie Kari Ayam/NDL",
+  "label": "K-GE/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea7"
+  },
+  "sapCode": "000000000000222106",
+  "description": "Minyak GPD-BG-GE/E-TP-Indomie Gr Ped/NDL",
+  "label": "GPD-BG-GE-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea8"
+  },
+  "sapCode": "000000000000226077",
+  "description": "Minyak PMPJ-Pop Mie DWR Rs Pangsit JT",
+  "label": "PMPJ",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ea9"
+  },
+  "sapCode": "000000000000216809",
+  "description": "Minyak PSTM-TP-Pop Mi Mini Rasa Soto Mie",
+  "label": "PSTM-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eaa"
+  },
+  "sapCode": "000000000000218608",
+  "description": "Minyak PGS-TP-Pop Mie Goreng Spesial",
+  "label": "PGS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eab"
+  },
+  "sapCode": "000000000000206187",
+  "description": "Minyak GBC-E-NPSS Ind Bbq C Frd Ndle/NDL",
+  "label": "GBC/E/NDL",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eac"
+  },
+  "sapCode": "000000000000224284",
+  "description": "Minyak DVG-TP-DAAI Vegetarian Mi Goreng",
+  "label": "DVG-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ead"
+  },
+  "sapCode": "000000000000217566",
+  "description": "Minyak GCI/E-MK-TP-Ind Gor Cabe Ijo/NDL",
+  "label": "GCI/E-MK-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eae"
+  },
+  "sapCode": "000000000000220052",
+  "description": "Minyak GSKJ-Ero-TP-Indomie Gor Spes/NDL",
+  "label": "GSKJ-ERO-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eaf"
+  },
+  "sapCode": "000000000000210396",
+  "description": "Minyak GSST-NPSS Ind Gor Spes Plus/E/NDL",
+  "label": "GSST/E/NDL",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb0"
+  },
+  "sapCode": "000000000000216728",
+  "description": "Minyak PMBJ-TP-Pop Mie Baso Jumbo",
+  "label": "PMBJ-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb1"
+  },
+  "sapCode": "000000000000223759",
+  "description": "Minyak SNSA-TP-Supermi Nutrimi Steak Aym",
+  "label": "SNSA-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb2"
+  },
+  "sapCode": "000000000000224549",
+  "description": "Minyak BGBC-CP-GE-TP-Ind BBQ Chk Frd/Exp",
+  "label": "BGBC-CP-GE-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb3"
+  },
+  "sapCode": "000000000000225700",
+  "description": "Seasoning Oil Ind Cup Curry Flv-TICK-TP",
+  "label": "TICK-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb4"
+  },
+  "sapCode": "000000000000216732",
+  "description": "Minyak PMKJ-TP-Pop Mie Reg Rs Kar Ay Jmb",
+  "label": "PMK-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb5"
+  },
+  "sapCode": "000000000000217787",
+  "description": "Minyak GST-NPSS-TP-Indomie Gr Taiwan/NDL",
+  "label": "GST-NPSS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb6"
+  },
+  "sapCode": "000000000000217991",
+  "description": "Minyak ISR-TP-Indomie Mi Gor Sambal Rica",
+  "label": "ISR-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb7"
+  },
+  "sapCode": "000000000000224282",
+  "description": "Minyak DVS-TP-DAAI Vegetarian Rasa Soto",
+  "label": "DVS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb8"
+  },
+  "sapCode": "000000000000217094",
+  "description": "Minyak GRS-E-TP-Indomi Mi Gr Rendang/NDL",
+  "label": "GRS-E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eb9"
+  },
+  "sapCode": "000000000000222806",
+  "description": "Sambal Real Meat-TP",
+  "label": "SAMBAL",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eba"
+  },
+  "sapCode": "000000000000214969",
+  "description": "Minyak GPD/Triple-TP-Indo Gor Pedas Trip",
+  "label": "GPD/Triple-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ebb"
+  },
+  "sapCode": "000000000000201148",
+  "description": "Minyak K/E-Indomie Kari./NDL",
+  "label": "K/E/NDL",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ebc"
+  },
+  "sapCode": "000000000000201139",
+  "description": "Minyak GPD-BG-NPSS-Indomie Gr Pedas/NDL",
+  "label": "GPD-NP/E/NDL",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ebd"
+  },
+  "sapCode": "000000000000220054",
+  "description": "Minyak SMKJ-Ero-TP-Indomie Soto Mie /NDL",
+  "label": "SMKJ-ERO-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ebe"
+  },
+  "sapCode": "000000000000216730",
+  "description": "Minyak PMSJ-TP-Pop Mie Rasa Soto Aym Jmb",
+  "label": "PMSJ-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ebf"
+  },
+  "sapCode": "000000000000221734",
+  "description": "Minyak GBC-CP-MF-TP-Ind BBQ Chk Frd /NDL",
+  "label": "GBC-CP-MF-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec0"
+  },
+  "sapCode": "000000000000203923",
+  "description": "Minyak Bawang GPN 1.7 Gram",
+  "label": "MY BWG GPN 1,7",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec1"
+  },
+  "sapCode": "000000000000217889",
+  "description": "Minyak GBR/E-TP-Ind Mi Gr Spc Bef Rib/ND",
+  "label": "GBR/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec2"
+  },
+  "sapCode": "000000000000218703",
+  "description": "Minyak PSP-Indomie Cup Vegetable Flav/NDL",
+  "label": "PSP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec3"
+  },
+  "sapCode": "000000000000220164",
+  "description": "Seasoning Liquid GIF",
+  "label": "GIF",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec4"
+  },
+  "sapCode": "000000000000220055",
+  "description": "Minyak GPDKJ-BG-Ero-TP-Indomie Gr Pd/NDL",
+  "label": "GPDKJ-BG-ERO-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec5"
+  },
+  "sapCode": "000000000000218764",
+  "description": "Minyak TSM-TP-Toya Vegetable/NDL",
+  "label": "TSM-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec6"
+  },
+  "sapCode": "000000000000218768",
+  "description": "Minyak TGS-TP-Toya Fried Noodle/NDL",
+  "label": "TGS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec7"
+  },
+  "sapCode": "000000000000225257",
+  "description": "Minyak DVK-TP-DAAI Vegetarian Rasa Kari",
+  "label": "DVK-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec8"
+  },
+  "sapCode": "000000000000224020",
+  "description": "Minyak PSP-GE-Indomie Cup Veg Flav/NDL",
+  "label": "PSP-GE",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ec9"
+  },
+  "sapCode": "000000000000218704",
+  "description": "Minyak PKP-Indomie Cup Curry Flavor/NDL",
+  "label": "PKP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eca"
+  },
+  "sapCode": "000000000000221241",
+  "description": "Minyak RSKN/E-TP-Sar Rs St Ky Jer Np/NDL",
+  "label": "RSKN/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ecb"
+  },
+  "sapCode": "000000000000201818",
+  "description": "Minyak MKGS/E-NPSS-Ind Ker Gor Spes/NDL",
+  "label": "MKG/E/ERO/NDL",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ecc"
+  },
+  "sapCode": "000000000000225699",
+  "description": "Seasoning Oil Ind Cup Veg Flv-TICS-TP",
+  "label": "TICS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ecd"
+  },
+  "sapCode": "000000000000220773",
+  "description": "Minyak GSK-NPSS-TP-No Brnd Gr Kor/NDL",
+  "label": "GSK-NPSS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ece"
+  },
+  "sapCode": "000000000000221309",
+  "description": "Real Meat IRMAJ-Ind Real Meat Ayam Jamur",
+  "label": "IRMAJ",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ecf"
+  },
+  "sapCode": "000000000000220053",
+  "description": "Minyak MBEKJ-Ero 3.0-TP-Minyak Bawng/NDL",
+  "label": "MBEKJ-ERO 3.0-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed0"
+  },
+  "sapCode": "000000000000222818",
+  "description": "Minyak PMSN-Pop Mie Panas Rs Soto Ayam",
+  "label": "PMSN",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed1"
+  },
+  "sapCode": "000000000000222113",
+  "description": "Minyak GSST-NPSS-GE-Ind Gr Spes Plus/NDL",
+  "label": "GSST-NPSS-GE",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed2"
+  },
+  "sapCode": "000000000000221310",
+  "description": "Real Meat IRMAL-Ind Real Meat Ayam Lada",
+  "label": "IRMAL",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed3"
+  },
+  "sapCode": "000000000000205597",
+  "description": "Minyak Bawang 2.0 Gram",
+  "label": "SKSA 50/ MY BWG 2 gr",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed4"
+  },
+  "sapCode": "000000000000223166",
+  "description": "Minyak PMSJ/E-Pop Mie Rs Soto Ay Jmb/NDL",
+  "label": "PMSJ/E",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed5"
+  },
+  "sapCode": "000000000000224253",
+  "description": "Minyak IMGA-TWN-TP-Ind Mi Gor Aceh/NDL",
+  "label": "IMGA-TWN-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed6"
+  },
+  "sapCode": "000000000000223584",
+  "description": "Minyak GPD-K-TP-Non Brand Mi Gor Ped/NDL",
+  "label": "GPD-K-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed7"
+  },
+  "sapCode": "000000000000223398",
+  "description": "Minyak GBC-TWN-TP-Ind BBQ Chk Frd ND/NDL",
+  "label": "GBC-TWN-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed8"
+  },
+  "sapCode": "000000000000221614",
+  "description": "Minyak RKGA/E-TP-Sarimi Kuah Aym Gul/NDL",
+  "label": "RKGA/E-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ed9"
+  },
+  "sapCode": "000000000000224650",
+  "description": "Sea Oil BGRS-TP-Ind Spicy Beef Flv",
+  "label": "BGRS-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580eda"
+  },
+  "sapCode": "000000000000214952",
+  "description": "Minyak RBSD-TP-Sarimi Rasa Baso Sapi Dua",
+  "label": "RBSD-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580edb"
+  },
+  "sapCode": "000000000000212311",
+  "description": "Minyak Pazto",
+  "label": "Minyak Pazto",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580edc"
+  },
+  "sapCode": "000000000000219890",
+  "description": "Minyak GSSJ-TP-Indomie Gor Spe Plus Jumb",
+  "label": "GSSJ-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580edd"
+  },
+  "sapCode": "000000000000219892",
+  "description": "Minyak GAPJ-TP-Ind Gr Ayam Panggang Jumb",
+  "label": "GAPJ-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ede"
+  },
+  "sapCode": "000000000000220213",
+  "description": "Minyak ISLR/B-TP-Indomie Soto Lamongan-R",
+  "label": "ISLR/B-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580edf"
+  },
+  "sapCode": "000000000000225732",
+  "description": "Minyak RBSD2-TP-Sarimi Rasa Baso Sapi Du",
+  "label": "RBSD2-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ee0"
+  },
+  "sapCode": "000000000000226158",
+  "description": "Minyak GSS-TP/LE-Indomie Gr Special Plus",
+  "label": "GSS-TP/LE",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ee1"
+  },
+  "sapCode": "000000000000226159",
+  "description": "Minyak GPD-TP/LE-Indomie Gr Pedas Trpl",
+  "label": "GPD-TP/LE",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ee2"
+  },
+  "sapCode": "000000000000226160",
+  "description": "Minyak IIP-TP/LE-Indo Mi Gor Iga Penyet",
+  "label": "IIP-TP/LE",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ee3"
+  },
+  "sapCode": "000000000000226161",
+  "description": "Minyak GRS-TP/LE-Indomie Mi Gor Rendang",
+  "label": "GRS-TP/LE",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "6428fae31257c9e8fa580ee4"
+  },
+  "sapCode": "000000000000226206",
+  "description": "Minyak IPMR-TP-Indomie Prem Miso Ramen",
+  "label": "IPMR-TP",
+  "typeCode": "M",
+  "createdAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:47:47.299Z"
+  },
+  "deletedAt": null
+},
+{
+  "_id": {
+    "$oid": "681d6d94d2cead023004a8cf"
+  },
+  "sapCode": "000000000000226675",
+  "typeCode": "B",
+  "label": "SPKA-2M/E-TPK",
+  "description": "BUMBU SPKA",
+  "createdAt": {
+    "$date": "2025-05-09T02:51:00.166Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T02:51:00.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d6defd2cead023004a8d4"
+  },
+  "sapCode": "000000000000229538",
+  "typeCode": "B",
+  "label": "PMAL-HS",
+  "description": "BUMBU PMAL",
+  "createdAt": {
+    "$date": "2025-05-09T02:52:31.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T02:52:31.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d6e35d2cead023004a8d5"
+  },
+  "sapCode": "000000000000229990",
+  "typeCode": "B",
+  "label": "IHBK-TP",
+  "description": "BUMBU IHBK",
+  "createdAt": {
+    "$date": "2025-05-09T02:53:41.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T02:53:41.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d6e7ad2cead023004a8da"
+  },
+  "sapCode": "000000000000227789",
+  "typeCode": "B",
+  "label": "PABS/E-TP",
+  "description": "BUMBU PABS",
+  "createdAt": {
+    "$date": "2025-05-09T02:54:50.279Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T02:54:50.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d6ec6d2cead023004a8e6"
+  },
+  "sapCode": "000000000000227511",
+  "typeCode": "B",
+  "label": "GRC-TP/NDL",
+  "description": "BUMBU GRC",
+  "createdAt": {
+    "$date": "2025-05-09T02:56:06.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T02:56:06.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d6f31d2cead023004a8f8"
+  },
+  "sapCode": "000000000000227196",
+  "typeCode": "B",
+  "label": "PGS-BG",
+  "description": "PGS",
+  "createdAt": {
+    "$date": "2025-05-09T02:57:53.909Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T02:57:53.909Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d6f51d2cead023004a8f9"
+  },
+  "sapCode": "000000000000227533",
+  "typeCode": "B",
+  "label": "PGS-BG-TP",
+  "description": "PGS",
+  "createdAt": {
+    "$date": "2025-05-09T02:58:25.795Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T02:58:25.795Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d6fa2d2cead023004a8fa"
+  },
+  "sapCode": "000000000000229395",
+  "typeCode": "B",
+  "label": "IPTKR-AR/NDL",
+  "description": "IPTKR-AR/NDL",
+  "createdAt": {
+    "$date": "2025-05-09T02:59:46.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T02:59:46.231Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d6fc1d2cead023004a8fc"
+  },
+  "sapCode": "000000000000229551",
+  "typeCode": "B",
+  "label": "PMKL-TP",
+  "description": "PMKL",
+  "createdAt": {
+    "$date": "2025-05-09T03:00:17.007Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T03:00:17.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d6ff0d2cead023004a904"
+  },
+  "sapCode": "000000000000229555",
+  "typeCode": "B",
+  "label": "PMAL",
+  "description": "PMAL",
+  "createdAt": {
+    "$date": "2025-05-09T03:01:04.650Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T03:01:04.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d7026d2cead023004a909"
+  },
+  "sapCode": "000000000000229444",
+  "typeCode": "B",
+  "label": "SI-ISKN",
+  "description": "SI-ISKN",
+  "createdAt": {
+    "$date": "2025-05-09T03:01:58.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T03:01:58.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681d7042d2cead023004a90d"
+  },
+  "sapCode": "000000000000229992",
+  "typeCode": "B",
+  "label": "SI-IHBK",
+  "description": "SI-IHBK",
+  "createdAt": {
+    "$date": "2025-05-09T03:02:26.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T03:02:26.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823ef10f6e6c40bce7d79c9"
+  },
+  "sapCode": "000000000000221887",
+  "typeCode": "B",
+  "label": "SPSTS-TPK-TP",
+  "description": "SPSTS-TPK-TP-Supermi Sdp Ts St ayam",
+  "createdAt": {
+    "$date": "2025-05-14T01:17:04.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:17:04.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823efb8f6e6c40bce7d79cf"
+  },
+  "sapCode": "000000000000221916",
+  "typeCode": "B",
+  "label": "ITKA-TPK-TP",
+  "description": "ITKA-TPK-TP-Intermi kaldu ayam",
+  "createdAt": {
+    "$date": "2025-05-14T01:19:52.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:19:52.059Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823f00cf6e6c40bce7d79dd"
+  },
+  "sapCode": "000000000000222709",
+  "typeCode": "B",
+  "label": "RKA70-TPK-TP",
+  "description": "RKA70-TPK-TP-Sari,i kaldu ayam",
+  "createdAt": {
+    "$date": "2025-05-14T01:21:16.624Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:21:16.624Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823f05af6e6c40bce7d79e6"
+  },
+  "sapCode": "000000000000217431",
+  "typeCode": "B",
+  "label": "GS/A-Topack-TP",
+  "description": "GS/A-Topack-TP-Indokie goreng spes",
+  "createdAt": {
+    "$date": "2025-05-14T01:22:34.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:22:34.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823f09af6e6c40bce7d79e7"
+  },
+  "sapCode": "000000000000224266",
+  "typeCode": "B",
+  "label": "RGA-TPK",
+  "description": "RGA-TPK-Sarimi goreng ayam",
+  "createdAt": {
+    "$date": "2025-05-14T01:23:38.469Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:23:38.469Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823f0d1f6e6c40bce7d79ea"
+  },
+  "sapCode": "000000000000220186",
+  "typeCode": "B",
+  "label": "K-Topack-TP",
+  "description": "K-Topack-TP-Indomie kari ayam",
+  "createdAt": {
+    "$date": "2025-05-14T01:24:33.630Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:24:33.630Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823f11ef6e6c40bce7d79f0"
+  },
+  "sapCode": "000000000000226679",
+  "typeCode": "B",
+  "label": "RGSD2-TPK",
+  "description": "RGSD2-TPK-Sarimi Mi Gr Ay Krems Du",
+  "createdAt": {
+    "$date": "2025-05-14T01:25:50.980Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:25:50.980Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823f179f6e6c40bce7d79f9"
+  },
+  "sapCode": "000000000000221886",
+  "typeCode": "B",
+  "label": "SPSAC-TPK-TP",
+  "description": "SPSAC-TPK-TP-Suoermi Aym Pds Medan",
+  "createdAt": {
+    "$date": "2025-05-14T01:27:21.755Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:27:21.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823f274f6e6c40bce7d79fd"
+  },
+  "sapCode": "000000000000226674",
+  "typeCode": "B",
+  "label": "KA-2M/E-TPK",
+  "description": "KA-2M/E-TPK-Ind KAKARUK",
+  "createdAt": {
+    "$date": "2025-05-14T01:31:32.756Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:31:32.756Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6823f2d9f6e6c40bce7d7a01"
+  },
+  "sapCode": "000000000000222444",
+  "typeCode": "B",
+  "label": "RGA-AR/E-TPK",
+  "description": "RGA-AR/E-TPK-Sarimi Goreng Aym/NDL",
+  "createdAt": {
+    "$date": "2025-05-14T01:33:13.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T01:33:13.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f289f6e6c40bce7d9ee7"
+  },
+  "sapCode": "000000000000227281",
+  "typeCode": "B",
+  "label": "IHAG/LE-TPK",
+  "description": "IND GORENG AYAM GEPREK-IHAG/LE-TPK",
+  "createdAt": {
+    "$date": "2025-05-16T08:08:41.320Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:08:41.320Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f2ecf6e6c40bce7d9ee9"
+  },
+  "sapCode": "000000000000227307",
+  "typeCode": "B",
+  "label": "RSTD/E-TPK",
+  "description": "RSTD/E-TPK-Sarimi Rs St Ay Dua/NDL",
+  "createdAt": {
+    "$date": "2025-05-16T08:10:20.917Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:10:20.917Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f35ff6e6c40bce7d9eef"
+  },
+  "sapCode": "000000000000227333",
+  "typeCode": "B",
+  "label": "K-MF-O-TPK",
+  "description": "K-MF-O-TPK-Indomie Kari mf/NDL",
+  "createdAt": {
+    "$date": "2025-05-16T08:12:15.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:12:15.951Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f3a3f6e6c40bce7d9ef1"
+  },
+  "sapCode": "000000000000227334",
+  "typeCode": "B",
+  "label": "SA-MF-O-TPK",
+  "description": "SA-MF-O-TPK-Indomie Aym Sps mf/NDL",
+  "createdAt": {
+    "$date": "2025-05-16T08:13:23.971Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:13:23.971Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f3d8f6e6c40bce7d9ef2"
+  },
+  "sapCode": "000000000000227335",
+  "typeCode": "B",
+  "label": "SM-MF-O-TPK",
+  "description": "SM-MF-O-TPK-Indomie Soto Mi mf/NDL",
+  "createdAt": {
+    "$date": "2025-05-16T08:14:16.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:14:16.728Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f50ef6e6c40bce7d9efb"
+  },
+  "sapCode": "000000000000225333",
+  "typeCode": "B",
+  "label": "MKA-O-TPK",
+  "description": "Powder Chicken Flv MKA-O-TPK",
+  "createdAt": {
+    "$date": "2025-05-16T08:19:26.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:19:26.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f541f6e6c40bce7d9efc"
+  },
+  "sapCode": "000000000000227259",
+  "typeCode": "B",
+  "label": "MKAB-TPK",
+  "description": "MKAB-TPK Chicken Baladi",
+  "createdAt": {
+    "$date": "2025-05-16T08:20:17.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:20:17.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f57ff6e6c40bce7d9eff"
+  },
+  "sapCode": "000000000000227260",
+  "typeCode": "B",
+  "label": "MKU-TPK",
+  "description": "MKU-TPK-Shrimp Flavour",
+  "createdAt": {
+    "$date": "2025-05-16T08:21:19.764Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:21:19.764Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f5c9f6e6c40bce7d9f02"
+  },
+  "sapCode": "000000000000227336",
+  "typeCode": "B",
+  "label": "KKA-TPK",
+  "description": "Bumbu sauce chicken Flavour KKA-TPK",
+  "createdAt": {
+    "$date": "2025-05-16T08:22:33.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:22:33.728Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f600f6e6c40bce7d9f06"
+  },
+  "sapCode": "000000000000227337",
+  "typeCode": "B",
+  "label": "KKAJ-TPK",
+  "description": "Bumbu sauce chicken jum Flv KKAJ-TPK",
+  "createdAt": {
+    "$date": "2025-05-16T08:23:28.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:23:28.951Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f639f6e6c40bce7d9f0d"
+  },
+  "sapCode": "000000000000227338",
+  "typeCode": "B",
+  "label": "KIBE-TPK",
+  "description": "Bumbu sauce beef  Flv KIBE-TPK",
+  "createdAt": {
+    "$date": "2025-05-16T08:24:25.132Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:24:25.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f6c0f6e6c40bce7d9f13"
+  },
+  "sapCode": "000000000000222445",
+  "typeCode": "B",
+  "label": "GBC/E-TPK",
+  "description": "Bumbu GBC/E-TPK-Ind Bbq Chk Frd ndl/NDL",
+  "createdAt": {
+    "$date": "2025-05-16T08:26:40.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:26:40.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f82ef6e6c40bce7d9f27"
+  },
+  "sapCode": "000000000000210888",
+  "typeCode": "B",
+  "label": "SPKS-TP",
+  "description": "Bumbu SPKS-TP Supermi sedaap Rs Kari Ay",
+  "createdAt": {
+    "$date": "2025-05-16T08:32:46.534Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:32:46.534Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f8c9f6e6c40bce7d9f2c"
+  },
+  "sapCode": "000000000000201826",
+  "typeCode": "B",
+  "label": "GS/I-MF/E",
+  "description": "Bumbu GS/I-MF/E Gor Spesial Meat Free/NDL",
+  "createdAt": {
+    "$date": "2025-05-16T08:35:21.306Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:35:21.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826f9baf6e6c40bce7d9f3a"
+  },
+  "sapCode": "000000000000225238",
+  "typeCode": "B",
+  "label": "FI-BK-MFO-TP",
+  "description": "FI-BK-MFO-TP",
+  "createdAt": {
+    "$date": "2025-05-16T08:39:22.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:39:22.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826fb34f6e6c40bce7d9f6a"
+  },
+  "sapCode": "000000000000213038",
+  "typeCode": "B",
+  "label": "SPGS-BG-TP",
+  "description": "Bumbu SPGS-BG-TP-Supermi Sedaaap Mi Gor",
+  "createdAt": {
+    "$date": "2025-05-16T08:45:40.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:45:40.542Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826fb8cf6e6c40bce7d9f76"
+  },
+  "sapCode": "000000000000226799",
+  "typeCode": "B",
+  "label": "RKAN-TP",
+  "description": "Bumbu RKAN-TP Sarimi Goreng Ayam Kecap",
+  "createdAt": {
+    "$date": "2025-05-16T08:47:08.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:47:08.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826fbb8f6e6c40bce7d9f7a"
+  },
+  "sapCode": "000000000000226797",
+  "typeCode": "B",
+  "label": "RGSN-TP",
+  "description": "Bumbu RGSN-TP Sarimi Goreng Ayam Kremes",
+  "createdAt": {
+    "$date": "2025-05-16T08:47:52.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:47:52.533Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826fe19f6e6c40bce7d9fbd"
+  },
+  "sapCode": "000000000000227129",
+  "typeCode": "B",
+  "label": "PMAASMFO-TP",
+  "description": "Bumbu PMAASMFO-TP-Pop mie Ay Mx Syr/NDL",
+  "createdAt": {
+    "$date": "2025-05-16T08:58:01.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T08:58:01.919Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826fea6f6e6c40bce7d9fcd"
+  },
+  "sapCode": "000000000000226459",
+  "typeCode": "B",
+  "label": "Sauce TR",
+  "description": "Sauce TR",
+  "createdAt": {
+    "$date": "2025-05-16T09:00:22.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T09:00:22.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826ff0af6e6c40bce7d9fd7"
+  },
+  "sapCode": "000000000000214976",
+  "typeCode": "B",
+  "label": "RKRD-TP",
+  "description": "Bumbu RKRD-TP-Sarimie Kari Ayam Dua",
+  "createdAt": {
+    "$date": "2025-05-16T09:02:02.382Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T09:02:02.382Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6826ff78f6e6c40bce7d9fe4"
+  },
+  "sapCode": "000000000000216371",
+  "typeCode": "B",
+  "label": "RKTAD-TP",
+  "description": "Bumbu RKTAD-TP-Sarimie Rs Tongseng Ay Dua",
+  "createdAt": {
+    "$date": "2025-05-16T09:03:52.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T09:03:52.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68367240dee3b1041a3c5739"
+  },
+  "sapCode": "000000000000225338",
+  "typeCode": "B",
+  "label": "MKABJ-TPK",
+  "description": "MKABJ-TPK",
+  "createdAt": {
+    "$date": "2025-05-28T02:17:36.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-28T02:17:36.933Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68367278dee3b1041a3c573f"
+  },
+  "sapCode": "000000000000227350",
+  "typeCode": "B",
+  "label": "TJO-O-TPK",
+  "description": "TJO-O-TPK",
+  "createdAt": {
+    "$date": "2025-05-28T02:18:32.591Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-28T02:18:32.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683672dddee3b1041a3c5749"
+  },
+  "sapCode": "000000000000213342",
+  "typeCode": "B",
+  "label": "PGSSJ",
+  "description": "PGSSJ",
+  "createdAt": {
+    "$date": "2025-05-28T02:20:13.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-28T02:20:13.780Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68367366dee3b1041a3c5753"
+  },
+  "sapCode": "000000000000230107",
+  "typeCode": "B",
+  "label": "PSSC POTONG",
+  "description": "PSSC POTONG",
+  "createdAt": {
+    "$date": "2025-05-28T02:22:30.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-28T02:22:30.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683673aadee3b1041a3c5760"
+  },
+  "sapCode": "000000000000229163",
+  "typeCode": "B",
+  "label": "PABSRL-TP",
+  "description": "PABSRL-TP",
+  "createdAt": {
+    "$date": "2025-05-28T02:23:38.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-28T02:23:38.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683673f6dee3b1041a3c5765"
+  },
+  "sapCode": "000000000000201179",
+  "typeCode": "B",
+  "label": "BG-1,5",
+  "description": "BG-1,5",
+  "createdAt": {
+    "$date": "2025-05-28T02:24:54.383Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-28T02:24:54.383Z"
+  }
+}]

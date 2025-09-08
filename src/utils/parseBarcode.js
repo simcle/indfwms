@@ -1,17 +1,34 @@
+import fs from 'fs'
+import path from 'path'
+
+const sapCodePath = path.resolve('src/utils/sap_code.json');
+
+let sapCodes = [];
+
+try {
+  const rawData = fs.readFileSync(sapCodePath);
+  sapCodes = JSON.parse(rawData);
+} catch (err) {
+  console.error("❌ Failed to load sap_code.json:", err.message);
+}
+
 export const parseBarcode = (barcodeRaw) => {
     const barcode = String(barcodeRaw).trim()
 
     if (barcode.length !== 73) {
         return {
-        valid: false,
-        message: "Barcode length invalid",
-        original: barcode
+            valid: false,
+            message: "Barcode length invalid",
+            original: barcode
         };
     }
 
     // KODE MATERIAL
     const kodeMaterialRaw = barcode.slice(0, 18);
     const kodeMaterial = kodeMaterialRaw.replace(/^0+/, '');
+    const sapInfo = sapCodes.find(entry => {
+        return entry.sapCode === kodeMaterialRaw
+    })
     // KODE JENIS
     const kodeJenisChar = barcode.slice(18, 19);
     const jenisMap = {
@@ -40,6 +57,11 @@ export const parseBarcode = (barcodeRaw) => {
         valid: true,
         origin: barcode,
         kodeSAP: kodeMaterialRaw,
+        sapInfo: sapInfo ? {
+            description: sapInfo.description,
+            label: sapInfo.label,
+            typeCode: sapInfo.typeCode
+        } : null,
         kodeMaterial,
         kodeJenis: jenisMap[kodeJenisChar] || "Unknown",
         batch: batchNumber,
