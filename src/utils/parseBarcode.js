@@ -21,13 +21,19 @@ export const parseBarcode = (barcodeRaw) => {
     };
     // BATCH NUMBER
     const batchNumber = barcode.slice(19, 27)
+    // PACK NUMBER 
+    const packNo = barcode.slice(27, 30)
+    // CARTON NUMBER
+    const cartNo = barcode.slice(32, 35)
     return {
         valid: true,
         origin: barcode,
         kodeSAP: kodeMaterialRaw,
         kodeMaterial,
         kodeJenis: jenisMap[kodeJenisChar] || "Unknown",
-        batch: batchNumber
+        batch: batchNumber,
+        packNo,
+        cartNo
     }
     
 }
