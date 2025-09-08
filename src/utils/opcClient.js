@@ -9,6 +9,7 @@ import {
 
 import { publish } from "../mqttClient.js";
 import { parseBarcode } from "./parseBarcode.js";
+import BarcodeScan from "../models/BarcodeScan.js";
 
 const endpointUrl = process.env.OPC_URL;
 const certificateFile = process.env.OPC_CERT;
@@ -81,7 +82,7 @@ async function main() {
         TimestampsToReturn.Both
       );
 
-      item.on("changed", (dataValue) => {
+      item.on("changed", async (dataValue) => {
         let raw = dataValue.value.value;
 
         // Jika nilai array, ubah ke bentuk object
@@ -95,17 +96,32 @@ async function main() {
         const now = new Date().toISOString();
 
         if (barcodeTags.has(tag.name)) {
-          // Kirim langsung ke topic barcode
           const parsed = parseBarcode(raw)
           console.log(parsed)
-          const payload = {
-            name: tag.name,
-            value: raw,
-            timestamp: now
-          };
+          if(parsed.valid && parsed.sapInfo) {
+            const saved = await BarcodeScan.create({
+              origin: parsed.origin,
+              kodeSAP: parsed.kodeSAP,
+              kodeMaterial: parsed.kodeMaterial,
+              description: parsed.sapInfo.description,
+              label: parsed.sapInfo.label,
+              typeCode: parsed.sapInfo.typeCode,
+              kodeJenis: parsed.kodeJenis,
+              batch: parsed.batch,
+              packNo: parsed.packNo,
+              cartNo: parsed.cartNo,
+              content: parsed.content,
+              weight: parsed.weight,
+              pitch: parsed.pitch,
+              bestBeforeRaw: parsed.bestBeforeRaw,
+              bestBefore: parsed.bestBefore,
+              additionalText: parsed.additionalText,
+              processOrder: parsed.processOrder,
+              scanDate: parsed.scanDate
+            });
+            publish("opc/barcode")
 
-          // console.log("📦 [BARCODE]", payload);
-          publish("opc/barcode", payload);
+          }
         } else {
           // Simpan dan kirim semua data non-barcode
           latestValues[tag.name] = raw;
