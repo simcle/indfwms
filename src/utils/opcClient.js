@@ -8,6 +8,7 @@ import {
 } from "node-opcua";
 
 import { publish } from "../mqttClient.js";
+import { parseBarcode } from "./parseBarcode.js";
 
 const endpointUrl = process.env.OPC_URL;
 const certificateFile = process.env.OPC_CERT;
@@ -95,13 +96,15 @@ async function main() {
 
         if (barcodeTags.has(tag.name)) {
           // Kirim langsung ke topic barcode
+          const parsed = parseBarcode(raw)
+          console.log(parsed)
           const payload = {
             name: tag.name,
             value: raw,
             timestamp: now
           };
 
-          console.log("📦 [BARCODE]", payload);
+          // console.log("📦 [BARCODE]", payload);
           publish("opc/barcode", payload);
         } else {
           // Simpan dan kirim semua data non-barcode
@@ -109,7 +112,7 @@ async function main() {
           latestValues.timestamp = now;
 
           const payload = { ...latestValues };
-          console.log("📦 [DATA]", payload);
+          // console.log("📦 [DATA]", payload);
           publish("opc/data", payload);
         }
       });
