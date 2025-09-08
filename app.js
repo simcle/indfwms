@@ -2,11 +2,15 @@ import "dotenv/config"
 import express from 'express'
 import cors from 'cors'
 
+import { connectDB } from "./src/utils/db.js"
+
 import path from 'path'
 import { fileURLToPath } from "url"
 
 import { connectMqtt } from "./src/mqttClient.js"
 import "./src/utils/opcClient.js"
+
+await connectDB()
 
 connectMqtt(process.env.MQTT_URL)
 
