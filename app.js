@@ -28,9 +28,9 @@ app.use(cors())
 
 app.use(express.static(path.join(__dirname, 'public')))
 
-app.use('/barcode', barCodeSscanRoutes);
+app.use('/api/barcode', barCodeSscanRoutes);
 
-app.get('*', (req, res) => {
+app.get(/^\/(?!api).*/, (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
