@@ -9,13 +9,21 @@ export const parseBarcode = (barcodeRaw) => {
         };
     }
 
+    // KODE MATERIAL
     const kodeMaterialRaw = barcode.slice(0, 18);
     const kodeMaterial = kodeMaterialRaw.replace(/^0+/, '');
-
+    // KODE JENIS
+    const kodeJenisChar = barcode.slice(18, 19);
+    const jenisMap = {
+        B: "Bumbu",
+        M: "Minyak",
+        S: "Sayur"
+    };
     return {
         valid: true,
         origin: barcode,
-        kodeMaterial
+        kodeMaterial,
+        kodeJenis: jenisMap[kodeJenisChar] || "Unknown"
     }
     
 }
