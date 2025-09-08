@@ -84,6 +84,7 @@ async function main() {
             }
             latestValues[tag.name] = raw
             latestValues.timestamp = new Date().toISOString();
+            console.log(latestValues)
             publish("opc/data", latestValues)
         });
     }
