@@ -11,9 +11,9 @@ export const getBarcodeScans = async (req, res) => {
         }
 
         if (start || end) {
-        query.scanDate = {}
-        if (start) query.scanDate.$gte = new Date(start)
-        if (end) query.scanDate.$lte = new Date(end)
+            query.scanDate = {}
+            if (start) query.scanDate.$gte = new Date(start)
+            if (end) query.scanDate.$lte = new Date(end)
         }
 
         const skip = (parseInt(page) - 1) * parseInt(limit)
