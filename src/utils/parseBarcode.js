@@ -15,9 +15,9 @@ export const parseBarcode = (barcodeRaw) => {
     // KODE JENIS
     const kodeJenisChar = barcode.slice(18, 19);
     const jenisMap = {
-        B: "Bumbu",
-        M: "Minyak",
-        S: "Sayur"
+        B: "SEASONING",
+        M: "OIL",
+        S: "VEGETABLE"
     };
     return {
         valid: true,
