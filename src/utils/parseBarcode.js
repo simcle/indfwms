@@ -19,12 +19,15 @@ export const parseBarcode = (barcodeRaw) => {
         M: "OIL",
         S: "VEGETABLE"
     };
+    // BATCH NUMBER
+    const batchNumber = barcode.slice(19, 26)
     return {
         valid: true,
         origin: barcode,
         kodeSAP: kodeMaterialRaw,
         kodeMaterial,
-        kodeJenis: jenisMap[kodeJenisChar] || "Unknown"
+        kodeJenis: jenisMap[kodeJenisChar] || "Unknown",
+        batch: batchNumber
     }
     
 }
