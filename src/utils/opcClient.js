@@ -107,7 +107,7 @@ async function main() {
 
           const parsed = parseBarcode(raw)
           console.log(parsed)
-          if(parsed.valid && parsed.sapInfo) {
+          if(parsed.valid && parsed.sapInfo && parsed.kodeJenis !== 'Unknown') {
             const saved = await BarcodeScan.create({
               origin: parsed.origin,
               kodeSAP: parsed.kodeSAP,
