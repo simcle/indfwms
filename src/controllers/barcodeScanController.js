@@ -2,12 +2,12 @@ import BarcodeScan from "../models/BarcodeScan.js";
 
 export const getBarcodeScans = async (req, res) => {
     try {
-        const { typeCode, start, end, page = 1, limit = 20 } = req.query
+        const { kodeJenis, start, end, page = 1, limit = 20 } = req.query
 
         const query = {}
 
-        if (typeCode) {
-        query.typeCode = typeCode.toUpperCase()
+        if (kodeJenis) {
+            query.kodeJenis = kodeJenis.toUpperCase()
         }
 
         if (start || end) {
