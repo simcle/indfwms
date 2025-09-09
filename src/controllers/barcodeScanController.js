@@ -30,10 +30,11 @@ export const getBarcodeScans = async (req, res) => {
         .limit(parseInt(limit))
 
         res.json({
-            page: parseInt(page),
-            limit: parseInt(limit),
-            total,
-            totalPages: Math.ceil(total / limit),
+            pages: {
+                current_page: parseInt(page),
+                last_page: Math.ceil(total/limit),
+                totalItems: total 
+            },
             data
         })
     } catch (err) {
