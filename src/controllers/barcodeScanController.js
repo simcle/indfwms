@@ -3,10 +3,12 @@ import dayjs from 'dayjs'
 
 export const getBarcodeScans = async (req, res) => {
     try {
-        const { kodeJenis, startDate, endDate, page = 1, limit = 20 } = req.query
+        const { search, kodeJenis, startDate, endDate, page = 1, limit = 20 } = req.query
 
         const query = {}
-
+        if(search) {
+            query.kodeMaterial = search
+        }
         if (kodeJenis) {
             query.kodeJenis = kodeJenis.toUpperCase()
         }
