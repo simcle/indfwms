@@ -2,7 +2,7 @@ import BarcodeScan from "../models/BarcodeScan.js";
 
 export const getBarcodeScans = async (req, res) => {
     try {
-        const { kodeJenis, start, end, page = 1, limit = 20 } = req.query
+        const { kodeJenis, startDate, endDate, page = 1, limit = 20 } = req.query
 
         const query = {}
 
@@ -10,10 +10,10 @@ export const getBarcodeScans = async (req, res) => {
             query.kodeJenis = kodeJenis.toUpperCase()
         }
 
-        if (start || end) {
+        if (startDate || endDate) {
             query.scanDate = {}
-            if (start) query.scanDate.$gte = new Date(start)
-            if (end) query.scanDate.$lte = new Date(end)
+            if (startDate) query.scanDate.$gte = new Date(startDate)
+            if (endDate) query.scanDate.$lte = new Date(endDate)
         }
 
         const skip = (parseInt(page) - 1) * parseInt(limit)
