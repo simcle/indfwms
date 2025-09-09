@@ -1,4 +1,5 @@
 import BarcodeScan from "../models/BarcodeScan.js";
+import dayjs from 'dayjs'
 
 export const getBarcodeScans = async (req, res) => {
     try {
@@ -11,9 +12,12 @@ export const getBarcodeScans = async (req, res) => {
         }
 
         if (startDate || endDate) {
+            const stat = dayjs(startDate).startOf("day").format('YYYY-MM-DD HH:mm:ss')
+            const end = dayjs(endDate).endOf('day').format('YYYY-MM-DD HH:mm:ss')
+
             query.scanDate = {}
-            if (startDate) query.scanDate.$gte = new Date(startDate)
-            if (endDate) query.scanDate.$lte = new Date(endDate)
+            if (startDate) query.scanDate.$gte = stat
+            if (endDate) query.scanDate.$lte = end
         }
 
         const skip = (parseInt(page) - 1) * parseInt(limit)
